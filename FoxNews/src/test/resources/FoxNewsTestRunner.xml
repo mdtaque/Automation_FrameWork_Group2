@@ -11,7 +11,7 @@
     <parameter name="browserVersion" value="69.0"/>
     <parameter name="url" value="http://www.foxnews.com/"/>
 
-    <test name = "Search Test">
+    <test name = "Click Test">
         <classes>
             <class name="search.InputSearch"/>
             <!--<class name="menu.MenuPage"/>-->

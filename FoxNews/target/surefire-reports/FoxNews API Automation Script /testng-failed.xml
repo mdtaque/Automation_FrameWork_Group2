@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FoxNews API Automation Script ]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="os" value="OS X"/>
+  <parameter name="os_version" value="Sierra"/>
+  <parameter name="browserVersion" value="69.0"/>
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="cloudEnvName" value="browserstack"/>
+  <parameter name="url" value="http://www.foxnews.com/"/>
+  <test thread-count="5" name="Click Test(failed)" verbose="0">
+    <classes>
+      <class name="search.InputSearch">
+        <methods>
+          <include name="click2"/>
+          <include name="click"/>
+          <include name="setUp"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- search.InputSearch -->
+    </classes>
+  </test> <!-- Click Test(failed) -->
+</suite> <!-- Failed suite [FoxNews API Automation Script ] -->
