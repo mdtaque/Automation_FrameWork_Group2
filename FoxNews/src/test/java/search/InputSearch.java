@@ -17,4 +17,10 @@ public class InputSearch extends CommonAPI {
         driver.findElement(By.cssSelector("#main-nav > ul > li:nth-child(2) > a")).click();
         //Thread.sleep(5000);
     }
+
+    @Test
+    public void main(){
+        click3("#main-nav > ul > li.menu-opinion > a");
+    }
+
 }
