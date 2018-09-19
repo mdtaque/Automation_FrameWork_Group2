@@ -24,4 +24,10 @@ public class CommonAPI {
 //        driver.close();
 //    }
 
+
+    @AfterMethod
+   public void cleanUp(){
+        driver.close();
+    }
+
 }
