@@ -14,13 +14,13 @@ public class CommonAPI {
     @BeforeMethod
     public void setUp(String url){
         driver = new FirefoxDriver();
-        System.setProperty("webdriver.gecko.driver","/Users/mdtaque/eclipse-workspace/GroupFramework/Generic/Browser-driver/geckodriver");
+        System.setProperty("webdriver.gecko.driver","/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/Browser-driver/geckodriver");
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
     }
 
-//    @AfterMethod
-//    public void cleanUp(){
-//        driver.close();
-//    }
+    @AfterMethod
+    public void cleanUp(){
+        driver.close();
+   }
 }
