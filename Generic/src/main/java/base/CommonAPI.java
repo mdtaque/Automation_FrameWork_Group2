@@ -19,8 +19,8 @@ public class CommonAPI {
         driver.get(url);
     }
 
-//    @AfterMethod
-//    public void cleanUp(){
-//        driver.close();
-//    }
+    @AfterMethod
+   public void cleanUp(){
+        driver.close();
+    }
 }
