@@ -12,10 +12,13 @@
     <classes>
       <class name="search.InputSearch">
         <methods>
-          <include name="click2"/>
-          <include name="click"/>
+          <include name="main"/>
+          <include name="main4"/>
+          <include name="main5"/>
           <include name="setUp"/>
+          <include name="main3"/>
           <include name="cleanUp"/>
+          <include name="main2"/>
         </methods>
       </class> <!-- search.InputSearch -->
     </classes>

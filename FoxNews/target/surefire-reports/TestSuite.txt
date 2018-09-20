@@ -1,4 +1,24 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.278 s - in TestSuite
+Tests run: 7, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 46.271 s <<< FAILURE! - in TestSuite
+main(search.InputSearch)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.NoSuchMethodError: search.InputSearch.typeOnCss(Ljava/lang/String;)V
+	at search.InputSearch.main(InputSearch.java:25)
+
+main2(search.InputSearch)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NoSuchMethodError: search.InputSearch.typeOnXpath(Ljava/lang/String;)V
+	at search.InputSearch.main2(InputSearch.java:30)
+
+main3(search.InputSearch)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NoSuchMethodError: search.InputSearch.typeOnXpath(Ljava/lang/String;)V
+	at search.InputSearch.main3(InputSearch.java:35)
+
+main4(search.InputSearch)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NoSuchMethodError: search.InputSearch.typeOnXpath(Ljava/lang/String;)V
+	at search.InputSearch.main4(InputSearch.java:40)
+
+main5(search.InputSearch)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NoSuchMethodError: search.InputSearch.typeOnXpath(Ljava/lang/String;)V
+	at search.InputSearch.main5(InputSearch.java:46)
+
