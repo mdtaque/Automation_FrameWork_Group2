@@ -27,10 +27,10 @@ public class CommonAPI {
         driver.get(url);
     }
 
-    /*@AfterMethod
+    @AfterMethod
    public void cleanUp(){
         driver.close();
-    }*/
+    }
 
 
     public void clickOnlinkText(String locator){

@@ -25,7 +25,9 @@
            <!-- <class name="CrCards.UserIDTest"/>-->
             <!--<class name="CrCards.PasswordTest"/>-->
             <!--<class name="CrCards.SignInTest"/>-->
-            <class name="Lending.LoansCreditTest"/>
+           <!-- <class name="Lending.LoansCreditTest"/>
+            <class name="Lending.MortgageTest"/>-->
+            <class name="Lending.HomeEquityTest"/>
         </classes>
     </test>
 
