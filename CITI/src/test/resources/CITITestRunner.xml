@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "CITI API Automation Script" parallel="false">
+
+
+    <parameter name="useCloudEnv" value = "false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="OS X"/>
+    <parameter name="os_version" value="Sierra"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="60.0"/>
+    <parameter name="url" value="https://online.citi.com/US/login.do"/>
+
+    <test name = "Search Test">
+        <classes>
+            <!--<class name = "CrCards.CreditCards"/>
+            <class name= "Search.ClickSearch"/>
+            <class name="Search.InputSearch"/>
+            <class name="Banking.banking"/>
+            <class name="Lending.lending"/>
+            <class name="Investing.investing"/>
+            <class name="Citigold.citiGold"/>-->
+            <!--<class name="Banking.StateSearchTest"/>-->
+           <!-- <class name="CrCards.UserIDTest"/>-->
+            <!--<class name="CrCards.PasswordTest"/>-->
+            <!--<class name="CrCards.SignInTest"/>-->
+            <class name="Lending.LoansCreditTest"/>
+        </classes>
+    </test>
+
+</suite>

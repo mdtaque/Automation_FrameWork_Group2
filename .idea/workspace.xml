@@ -2,44 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d21f956d-2659-4ad4-9b3d-104503130302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ConnectMeToDataBase/src/ConnectToMySQL/AddClassd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/byte-buddy-1.8.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/commons-exec-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/guava-25.0-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/httpclient-4.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/httpcore-4.4.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/okhttp-3.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/okio-1.14.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/byte-buddy-1.8.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-exec-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/guava-25.0-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/httpclient-4.5.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/httpcore-4.4.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/okhttp-3.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/okio-1.14.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/selenium-server-standalone-3.14.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/testng-6.8.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice For Midterm/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld.java/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/StaticMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/StaticMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/TestMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticmethod/TestMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/StaticVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/StaticVariables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/TestStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/staticvariables/TestStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/StaticMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/TestMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticmethod/TestMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/StaticVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/StaticVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/staticvariables/TestStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../file.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Banking/StateSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Banking/banking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Banking/selectState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Citigold/citiGold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/CrCards/CreditCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/CrCards/PasswordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/CrCards/SignInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/CrCards/UserIDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Investing/investing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Lending/LoansCreditTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Lending/lending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Search/ClickSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/Search/InputSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GroupFramework-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/CITI/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,34 +74,97 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-193502882">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1068" />
+          <entry key="xml" value="86" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1068" />
+          <entry key="XML" value="86" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="24" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="24" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+        <entry file="file://$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="290">
+              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Lending/LoansCreditTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Lending/lending.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#1241#1242#0" expanded="true" />
+                <element signature="e#1407#1408#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
+                <element signature="e#1874#1875#0" expanded="true" />
+                <element signature="e#1935#1936#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,14 +180,31 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/CITI/pom.xml" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Search/CreditCards.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/CreditCards.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Search/ClickSearch.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Search/InputSearch.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Lending/lending.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Citigold/citiGold.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/banking.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Investing/investing.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/ClkSearch.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/selectState.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/UserIDTest.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/PasswordTest.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/SignInTest.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/StateSearchTest.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/java/Lending/LoansCreditTest.java" />
+        <option value="$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml" />
       </list>
     </option>
   </component>
@@ -146,28 +220,35 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="CITI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CITI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="GroupFramework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="GroupFramework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
   <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-17" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="width" value="1009" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -175,34 +256,168 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Banking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Citigold" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CrCards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Investing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Lending" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="CITI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="Browser-driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537287299357" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537554119949" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Generic/Browser-driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CITI/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,6 +432,64 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="TestNG./Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml">
+    <configuration name="CreditCards" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CITI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrCards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Search" />
+      <option name="MAIN_CLASS_NAME" value="CrCards.CreditCards" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCards.search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CITI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrCards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Search" />
+      <option name="MAIN_CLASS_NAME" value="CrCards.CreditCards" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CITI" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CreditCards" />
+      <item itemvalue="TestNG.CreditCards.search" />
+      <item itemvalue="TestNG./Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" />
+        <item itemvalue="TestNG.CreditCards.search" />
+        <item itemvalue="TestNG.CreditCards" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,11 +503,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 35m 56s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 38m 51s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 39m 28s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 42m 05s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 44m 54s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 45m 21s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 46m 07s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 47m 01s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 48m 08s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.21 at 13h 57m 48s.xml">
+      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <frame x="-17" y="23" width="1009" height="733" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22026888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -242,8 +547,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329235" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -251,6 +556,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917318" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -259,34 +565,244 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.25853154" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2916236" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917318" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.25853154" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="750">
+          <caret line="50" column="10" selection-start-line="37" selection-start-column="4" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Search/ClickSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Citigold/citiGold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Investing/investing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Banking/banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Banking/ClkSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Search/InputSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/CrCards/CreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/CrCards/UserIDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/CrCards/PasswordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/CrCards/SignInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Banking/selectState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="261">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1935#1936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Banking/StateSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Lending/lending.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Lending/LoansCreditTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
         </state>
       </provider>
     </entry>
