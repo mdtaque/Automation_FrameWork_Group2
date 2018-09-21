@@ -38,9 +38,10 @@ public class CommonAPI {
 
     @AfterMethod
 
+
    public void cleanUp(){
         driver.close();
-    }*/
+    }
 
 
     public void clickOnlinkText(String locator){
@@ -66,7 +67,7 @@ public class CommonAPI {
         select.selectByVisibleText(value);
         /*WebElement providers = driver.findElement(By.cssSelector(locator));
         providers.sendKeys();*/
-    }
+
 
     public void clickByXpath(String locator) {
         driver.findElement(By.xpath(locator)).click();
