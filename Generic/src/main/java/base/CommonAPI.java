@@ -27,7 +27,17 @@ public class CommonAPI {
         driver.get(url);
     }
 
+
     /*@AfterMethod
+
+//    @AfterMethod
+//    public void cleanUp(){
+//        driver.close();
+//    }
+
+
+    @AfterMethod
+
    public void cleanUp(){
         driver.close();
     }*/
@@ -45,6 +55,7 @@ public class CommonAPI {
         driver.findElement(By.cssSelector(locator)).sendKeys(value);
     }
 
+
     public void clickOnClass(String locator){
         driver.findElement(By.className(locator)).click();
     }
@@ -60,5 +71,6 @@ public class CommonAPI {
     public void clickByXpath(String locator) {
         driver.findElement(By.xpath(locator)).click();
     }
+
 
 }
