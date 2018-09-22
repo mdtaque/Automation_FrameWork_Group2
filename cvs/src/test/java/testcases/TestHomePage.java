@@ -1,28 +1,31 @@
 package testcases;
 
+
 import base.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.HomePage;
+import pages.PharmecyPage;
 
 public class TestHomePage extends CommonAPI {
     HomePage homepage;
+    PharmecyPage pharmecyPage;
 
-     @BeforeMethod
+    @BeforeMethod
     public void intializePageElements(){
         homepage = PageFactory.initElements(driver, HomePage.class);
     }
 
     @Test(priority = 1, enabled = true)
     public void testSearch(){
-       homepage.searchPage();
+        homepage.searchPage();
 
     }
 
     @Test(priority = 2, enabled = true)
     public void testPharmacyPage(){
-         homepage.nevigatePharmacyPage();
+        pharmecyPage=homepage.nevigatePharmacyPage();
 
     }
 

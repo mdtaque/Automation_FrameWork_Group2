@@ -1,8 +1,13 @@
 package pages;
+
 import base.CommonAPI;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.util.Set;
 
 public class HomePage extends CommonAPI {
 
@@ -13,7 +18,7 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath="//button[@aria-label='Submit Search']")
     WebElement searchButton;
 
-    @FindBy(xpath="//a[@href='https://www.cvs.com/pharmacy/pharmacy-homepage.jsp']")
+    @FindBy(xpath="//*[@id=\"headCVS\"]/div[3]/div/div[1]/ul/li[1]/a")
     WebElement pharmacyButton;
 
     @FindBy(xpath="//a[@href='/minuteclinic?icid=CVSHeader:MinuteClinic']")
@@ -28,6 +33,10 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath="//a[contains(text(),'Create an Account')]")
     WebElement createAccountLink;
 
+//    public HomePage(){
+//        PageFactory.initElements(driver,this);
+//    }
+
     public void searchPage(){
         searchBox.click();
         searchBox.sendKeys("nyquil");
@@ -35,8 +44,9 @@ public class HomePage extends CommonAPI {
 
     }
 
-    public void nevigatePharmacyPage(){
+    public PharmecyPage nevigatePharmacyPage(){
         pharmacyButton.click();
+        return new PharmecyPage();
 
 
     }
@@ -60,16 +70,16 @@ public class HomePage extends CommonAPI {
 
     }
 
-    public WebElement getPharmacyButton(){
-        return pharmacyButton;
-    }
-
-    public void goToLoginPage() {
-        pharmacyButton.click();
-        String st = driver.getWindowHandle();
-        new WebDriverWait(driver, 50);
-
-    }
+//    public WebElement getPharmacyButton(){
+//        return pharmacyButton;
+//    }
+//
+//    public void goToLoginPage() {
+//        pharmacyButton.click();
+//        String st = driver.getWindowHandle();
+//        new WebDriverWait(driver, 50);
+//
+//    }
 
 
 }

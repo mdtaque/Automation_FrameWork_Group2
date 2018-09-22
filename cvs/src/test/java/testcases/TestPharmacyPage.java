@@ -15,23 +15,15 @@ public class TestPharmacyPage extends CommonAPI {
     @BeforeMethod
     public void intializeElements(){
         homePage = PageFactory.initElements(driver, HomePage.class);
-        pharmecyPage=PageFactory.initElements(driver, PharmecyPage.class);
+        pharmecyPage = PageFactory.initElements(driver,PharmecyPage.class);
+        pharmecyPage=homePage.nevigatePharmacyPage();
 
 
     }
 
-    @Test
-    public void testLogin() throws InterruptedException{
-
-        homePage.goToLoginPage();
-
-        pharmecyPage.checkLogin();
-
-
+    @Test(priority = 1)
+    public void myPharmacyLinkTest() {
+        pharmecyPage.clickonMyPresciption();
     }
-
-
-
-
 
 }
