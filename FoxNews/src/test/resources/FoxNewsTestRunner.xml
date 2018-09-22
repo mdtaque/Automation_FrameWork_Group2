@@ -13,7 +13,8 @@
 
     <test name = "Click Test">
         <classes>
-            <class name="search.InputSearch"/>
+            <class name="TestHomePageClick.ClickHomepage"/>
+            <class name="TestLoginPage.LoginTest"/>
             <!--<class name="menu.MenuPage"/>-->
         </classes>
     </test>
