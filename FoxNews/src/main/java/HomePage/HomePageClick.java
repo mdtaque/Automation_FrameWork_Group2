@@ -1,6 +1,7 @@
 package HomePage;
 
 import base.CommonAPI;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
@@ -9,11 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HomePageClick extends CommonAPI {
-
-//    public HomePageClick(){
-//        PageFactory.initElements(driver, this);
-//    }
-
 
     @FindBy(xpath = "//*[@id=\"wrapper\"]/header/div[2]/div/div[2]/div[2]/a")
     public static WebElement searchicon;
@@ -31,98 +27,54 @@ public class HomePageClick extends CommonAPI {
     public static WebElement verifyPartialLinkText;
     @FindBy(css = "#main-nav > ul > li.menu-more")
     public static WebElement clickOnMore;
+    @FindBy(xpath = "//input[@class='ng-valid ng-dirty']")
+    WebElement nextSearchBox;
+
 
 
     public void searchBoxClick() {
         searchicon.click();
     }
-
     //reusable method
     public void searchBoxInput(String input) {
         searchicon.click();
         searchinputbox.sendKeys(input);
     }
-
-    public void searchButtonEnter() {
+    public void searchButtonEnter() throws InterruptedException {
         searchicon.click();
-        searchinputbox.sendKeys("Sports");
-        searchbuttonEnter.click();
+        for(String s: listOfString()){
+            searchinputbox.sendKeys(s, Keys.ENTER);
+            //Thread.sleep(3000);
+            searchinputbox.clear();
+            navigateBack();
+        }
     }
-
     public void clicklogo() {
         clickonlogo.click();
-
     }
-
-    public void getLinks () {
+    public void getLinks() {
         for (WebElement links : anchorTag) {
             System.out.println(links.getAttribute("href"));
         }
     }
-
-    public void linkText(){
+    public void linkText() {
         verifyLinkText.click();
     }
-
-    public void partialLinkText(){
+    public void partialLinkText() {
         verifyPartialLinkText.click();
     }
 
-    public List<String> getItemValue(){
-        searchBoxClick();
-        List<String> itemList = new ArrayList<>();
-        itemList.add("Cricket");
-        itemList.add("Football");
-        itemList.add("Crime");
-        itemList.add("Baseball");
-        itemList.add("Soccer");
+    public static List<String> listOfString() {
 
-        return itemList;
+        List<String> list = new ArrayList<String>();
+        list.add(0, "Sprots");
+        list.add(1, "Politics");
+
+        return list;
     }
-
-    public void More() throws InterruptedException {
-        clickOnMore.click();
-        //driver.manage().wait(10);
-        Select select = new Select(driver);
-        select.selectByValue("Movies");
-
-    }
-
-    }
-
-
-//    @FindBy(name = "SearchText")
-//    public static WebElement searchBox;
-//    @FindBy(xpath = "//div[@id=\"J_SC_header\"]//form/div[1]/div/div/span[1]")
-//    public static WebElement productSearchOption;
-//    @FindBy(xpath = "//div[@id=\"J_SC_header\"]//form/div[1]/div/div/span[1]")
-//    public static WebElement suppliersSearchOption;
-//    @FindBy(xpath = "//div[@id=\"J_SC_header\"]//form/div[1]/div/div/span[2]")
-//    public static WebElement quotesSearchOptin;
-//    @FindBy(xpath = "//*[@id=\"J_SC_header\"]//input[4]")
-//    public static WebElement searchButton;
-//    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[3]/ul/li[1]/span")
-//    public static WebElement sourcingSolutions;
-//    @FindBy(partialLinkText = "Top Selected")
-//    public static WebElement topSelectedSuppliers;
-//    @FindBy(partialLinkText = "Sign In")
-//    public static WebElement signInButton;
-//    @FindBy(partialLinkText = "Get the App")
-//    public static WebElement getTheAppLink;
-//    @FindBy(partialLinkText = "One Request")
-//    public static WebElement oneRequestButton;
-//    @FindBy(partialLinkText = "Favorites")
-//    public static WebElement favoriteLink;
-//    @FindBy(xpath = "//div[@id=\"J_SC_header\"]/header/div[2]/div[1]/div/div/h3")
-//    public static WebElement categories;
-//    @FindBy(partialLinkText = "Machinery")
-//    private WebElement machinery;
-//    @FindBy(partialLinkText = "Hand Tools")
-//    private WebElement handTools;
-//    @FindBy(xpath = "//a[@class='more' and @href='javascript:;']")
-//    private WebElement seeMore;
-//    @FindBy(xpath = "//div/a[text()='Alibaba.com']")
-//    private WebElement logo;
-//    @FindBy(xpath = "//a[@data-val='ordericon']")
-//    private WebElement orderProtectionButton;
+//    public void More(String value) throws InterruptedException {
+//        Select select = new Select(clickOnMore);
+//        select.selectByValue(value);
+//    }
+}
 

@@ -23,7 +23,7 @@ public class CommonAPI {
 
     @Parameters({"url"})
     @BeforeMethod
-    public void setUp(@Optional("http://www.foxnews.com/") String url) {
+    public void setUp(@Optional("https://www.ebay.com/") String url) {
         getLocalDriver("Chrome");
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

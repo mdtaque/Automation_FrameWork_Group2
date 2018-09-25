@@ -17,7 +17,6 @@ public class LogIn extends CommonAPI {
     @FindBy(css = "#btn-login")
     WebElement pressLogInButton;
 
-
     public void goToLoginPage(){
         clickonLoginButton.click();
     }
