@@ -31,6 +31,11 @@ public class CommonAPI {
         driver.get(url);
     }
 
+    @AfterMethod
+    public void cleanUp() {
+        driver.close();
+    }
+
     /*public void clickOnId(String locator){
         driver.findElement(By.id(locator)).click();
     }
@@ -209,7 +214,5 @@ public class CommonAPI {
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(file, new File("/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/screenShots"+fileName+".png"));
     }
-    public void cleanUp(){
-        driver.close();
    }
-}
+
