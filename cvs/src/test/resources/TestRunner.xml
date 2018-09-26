@@ -1,0 +1,21 @@
+<suite name="CVS Automation Script " parallel="false">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="OS X"/>
+    <parameter name="os_version" value="Sierra"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="60.0"/>
+    <parameter name="url" value="https://www.cvs.com/"/>
+
+    <test name = "E-commerce Services">
+        <!--<classes>-->
+            <!--<class name="testcases.TestHomePage"/>-->
+        <!--</classes>-->
+
+        <classes>
+            <class name="testcases.TestPharmacyPage"/>
+        </classes>
+    </test>
+
+</suite>

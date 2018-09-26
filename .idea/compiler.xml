@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CITI" />
+        <module name="cvs" />
         <module name="Generic" />
         <module name="Rakuten" />
       </profile>

@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Generic</module>
+        <module>cvs</module>
         <module>CITI</module>
         <module>Rakuten</module>
     </modules>

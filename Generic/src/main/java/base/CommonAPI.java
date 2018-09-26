@@ -214,4 +214,5 @@ public class CommonAPI {
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(file, new File("/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/screenShots"+fileName+".png"));
     }
-}
+   }
+
