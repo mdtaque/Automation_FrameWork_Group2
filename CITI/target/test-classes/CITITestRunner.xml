@@ -14,21 +14,12 @@
 
     <test name = "Search Test">
         <classes>
-            <!--<class name = "CrCards.CreditCards"/>
-            <class name= "Search.ClickSearch"/>
-            <class name="Search.InputSearch"/>
-            <class name="Banking.banking"/>
-            <class name="Lending.lending"/>
-            <class name="Investing.investing"/>
-            <class name="Citigold.citiGold"/>-->
-            <!--<class name="Banking.StateSearchTest"/>-->
-           <!-- <class name="CrCards.UserIDTest"/>-->
-            <!--<class name="CrCards.PasswordTest"/>-->
-            <!--<class name="CrCards.SignInTest"/>-->
-           <!-- <class name="Lending.LoansCreditTest"/>
-            <class name="Lending.MortgageTest"/>-->
-            <class name="Lending.HomeEquityTest"/>
+            <class name="homePage.HomePageTest"/>
+            <!--<class name="searchPage.SearchPageTest"/>-->
+            <!--<class name="lending.LendingPageTest"/>-->
+            <!--<class name="bankingPage.BankingPageTest"/>-->
+            <!--<class name="homeScreenShot.HomeScreenShotTest"/>-->
+            <!--<class name="alertHandlePage.AlertHandlePageTest"/>-->
         </classes>
     </test>
-
 </suite>
