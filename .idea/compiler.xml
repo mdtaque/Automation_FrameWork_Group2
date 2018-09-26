@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CITI" />
         <module name="Generic" />
+        <module name="Rakuten" />
       </profile>
     </annotationProcessing>
   </component>
