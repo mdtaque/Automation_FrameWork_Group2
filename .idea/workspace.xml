@@ -1,194 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d21f956d-2659-4ad4-9b3d-104503130302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/Data/loginInfo.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/screenShotshttps:/online.citi.com/US/login.do.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/main/java/citiPages/Banking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/main/java/citiPages/HmAlertHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/main/java/citiPages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/main/java/citiPages/HomeScreenShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/main/java/citiPages/LendingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/main/java/citiPages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/main/java/citiPages/SignInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/alertHandlePage/AlertHandlePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/bankingPage/BankingPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/homePage/HomePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/homeScreenShot/HomeScreenShotTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/lending/LendingPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/test/java/searchPage/SearchPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/CITI-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/classes/citiPages/Banking.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/classes/citiPages/HmAlertHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/classes/citiPages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/classes/citiPages/HomeScreenShot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/classes/citiPages/LendingPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/classes/citiPages/SearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/classes/citiPages/SignInPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/test-classes/CITITestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/test-classes/alertHandlePage/AlertHandlePageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/test-classes/bankingPage/BankingPageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/test-classes/homePage/HomePageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/test-classes/homeScreenShot/HomeScreenShotTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/test-classes/lending/LendingPageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CITI/target/test-classes/searchPage/SearchPageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Browser-driver/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Browser-driver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Browser-driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Browser-driver/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/dataReader/XlsxDataReaderUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/dataReader/XlsxDataReaderUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakuten/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakuten/src/test/resources/RakutenTestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakuten/target/Rakuten-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakuten/target/test-classes/RakutenTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="181f3d20-04ce-4f36-9541-c108041355b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CITI/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CITI/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/GroupFramework-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Rakuten/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Rakuten/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Rakuten/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/Generic/target/" />
-    <ignored path="$PROJECT_DIR$/CITI/target/" />
-    <ignored path="$PROJECT_DIR$/Rakuten/target/" />
-    <ignored path="$PROJECT_DIR$/cvs/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1679027161">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="9" />
-          <entry key="project.opened" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="160" />
-          <entry key="xml" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="160" />
-          <entry key="XML" value="15" />
-        </counts>
-      </usages-collector>
+    <session id="-193502882">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
+          <entry key="properties" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
+          <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
-    </session>
-    <session id="-193502882">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="3" />
-          <entry key="java" value="111" />
-          <entry key="lst" value="1" />
-          <entry key="png" value="2" />
-          <entry key="xml" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="3" />
-          <entry key="Image" value="2" />
-          <entry key="JAVA" value="111" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="21" />
-          <entry key="java" value="4476" />
-          <entry key="xml" value="50" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="4476" />
-          <entry key="PLAIN_TEXT" value="21" />
-          <entry key="XML" value="50" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-    <session id="-243742553">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="project.closed" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -197,10 +48,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataReader/XlsxDataReaderUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="240">
               <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
             </state>
           </provider>
@@ -209,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CITI/src/main/java/citiPages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="525">
               <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -239,32 +95,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CITI/src/test/java/homePage/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="735">
               <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#289#290#0" expanded="true" />
                 <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
-                <element signature="e#939#940#0" expanded="true" />
-                <element signature="e#980#981#0" expanded="true" />
-                <element signature="e#1009#1010#0" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1070#1071#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3075">
+              <caret line="211" selection-start-line="211" selection-end-line="211" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="TestNG Test Class" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -272,109 +135,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Citigold/citiGold.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/banking.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Investing/investing.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/ClkSearch.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/selectState.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Lending/lending.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Citigold/CitiGold.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Lending/HomeEquityTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Search/InputSearch.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/BankingTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Lending/LendingTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/SelectStateTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Banking/StateSearchTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/CreditCards.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/PasswordTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/SignInTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/CrCards/UserIDTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Investing/InvestingTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Lending/LoansCreditTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Lending/MortgageTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/Search/ClickSearch.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/SearchPage.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/searchPage/SearchPageTest.java" />
-        <option value="$USER_HOME$/Documents/udemy:noviceTaNinja:JaSel/excel:datareader/4-UsingExcel.java" />
-        <option value="$PROJECT_DIR$/Rakuten/pom.xml" />
-        <option value="$PROJECT_DIR$/Rakuten/src/test/resources/RakutenTestRunner.xml" />
-        <option value="$PROJECT_DIR$/Rakuten/src/main/java/rakutenPages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/Rakuten/src/test/java/rakutenPages/LoginPageTest.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/Utility/DataTest.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataTest.java" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/dataReader/InputFromExcel.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/BankingPage.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/LendingPage.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/lending/LendingPageTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/Banking.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/HomeScreenShot.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/homeScreenShot/HomeScreenShotTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/bankingPage/BankingPageTest.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/HmAlertHandle.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/alertHandlePage/AlertHandlePageTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/SignInPage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/dataReader/XlsxDataReaderUtil.java" />
-        <option value="$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml" />
-        <option value="$PROJECT_DIR$/CITI/src/test/java/homePage/HomePageTest.java" />
-        <option value="$PROJECT_DIR$/CITI/src/main/java/citiPages/HomePage.java" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" />
       </list>
     </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CITI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CITI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="GroupFramework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="GroupFramework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="23" />
-    <option name="width" value="835" />
-    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -382,6 +147,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,12 +166,6 @@
               <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="Browser-driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
@@ -439,44 +201,20 @@
               <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dataReader" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-archiver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538003896224" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="rakutenPages" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic/Browser-driver" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CITI/Data" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java/dataReader" />
-      <recent name="$PROJECT_DIR$/Rakuten/src/test" />
-      <recent name="$PROJECT_DIR$/CITI/src/test" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -489,82 +227,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager" selected="TestNG./Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml">
-    <configuration name="BankingPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CITI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bankingPage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bankingPage" />
-      <option name="MAIN_CLASS_NAME" value="bankingPage.BankingPageTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreditCards" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CITI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CrCards.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Search" />
-      <option name="MAIN_CLASS_NAME" value="CrCards.CreditCards" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreditCards.search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CITI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CrCards.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Search" />
-      <option name="MAIN_CLASS_NAME" value="CrCards.CreditCards" />
-      <option name="METHOD_NAME" value="search" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CITI" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/CITI/src/test/resources/CITITestRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="TestNG.CreditCards" />
-      <item itemvalue="TestNG.CreditCards.search" />
-      <item itemvalue="TestNG./Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" />
-      <item itemvalue="TestNG.BankingPageTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG./Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" />
-        <item itemvalue="TestNG.BankingPageTest" />
-        <item itemvalue="TestNG.CreditCards.search" />
-        <item itemvalue="TestNG.CreditCards" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -579,43 +241,11 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 14h 01m 27s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 14h 08m 16s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 14h 09m 35s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 18h 42m 58s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 18h 45m 42s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 18h 47m 36s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 18h 53m 02s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 19h 02m 30s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 19h 03m 45s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_hasan_Desktop_Automation_FrameWork_Group2_CITI_src_test_resources_CITITestRunner_xml - 2018.09.26 at 19h 13m 40s.xml">
-      <configuration name="/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/src/test/resources/CITITestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="23" width="835" height="725" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22950819" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14701131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -629,7 +259,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49548194" visible="true" weight="0.328594" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49548194" visible="true" weight="0.2849315" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.42516556" side_tool="true" weight="0.2843602" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49899396" weight="0.31755725" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.5390729" weight="0.37756714" />
@@ -677,19 +307,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="314" selection-start-line="314" selection-end-line="314" />
-          <folding>
-            <element signature="e#10947#10948#0" expanded="true" />
-            <element signature="e#10991#10992#0" expanded="true" />
-            <element signature="e#14936#14937#0" expanded="true" />
-            <element signature="e#14999#15000#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CITI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
     <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Lending/LendingTest.java" />
     <entry file="file://$PROJECT_DIR$/CITI/src/test/java/Citigold/CitiGold.java" />
@@ -748,16 +365,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataReader/InputFromExcel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataReader/InputFromExcel.java" />
     <entry file="file://$PROJECT_DIR$/CITI/src/test/java/lending/LendingPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -796,16 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2369">
-          <caret line="180" column="24" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -920,32 +518,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataReader/XlsxDataReaderUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="240">
           <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/homePage/HomePageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CITI/src/main/java/citiPages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="525">
           <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -960,13 +540,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+    <entry file="file://$PROJECT_DIR$/CITI/src/test/java/homePage/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="735">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -977,32 +559,32 @@
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3075">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

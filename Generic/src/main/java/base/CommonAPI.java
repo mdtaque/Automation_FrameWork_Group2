@@ -26,13 +26,9 @@ public class CommonAPI {
     public void setUp(@Optional("https://online.citi.com/US/login.do") String url) {
         System.setProperty("webdriver.gecko.driver", "/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/Browser-driver/geckodriver");
         driver = new FirefoxDriver();
+        System.setProperty("webdriver.gecko.driver","/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/Browser-driver/geckodriver");
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
-    }
-
-    @AfterMethod
-    public void cleanUp() {
-        driver.close();
     }
 
     /*public void clickOnId(String locator){
@@ -213,4 +209,7 @@ public class CommonAPI {
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(file, new File("/Users/hasan/Desktop/Automation_FrameWork_Group2/CITI/screenShots"+fileName+".png"));
     }
+    public void cleanUp(){
+        driver.close();
+   }
 }
