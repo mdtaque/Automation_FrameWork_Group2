@@ -1,2 +1,8 @@
-base/CommonAPI.class
+DataProviderUtilityWithXlsReader/XlsDataReaderUtil.class
+reporting/ExtentManager.class
 DataReader/XlsReader.class
+reporting/ApplicationLog.class
+reporting/ExtentTestManager.class
+DataProviderUtilityWithXlsReader/Xls_Reader.class
+GoogleAPIs/GoogleSheetReader.class
+reporting/TestLogger.class

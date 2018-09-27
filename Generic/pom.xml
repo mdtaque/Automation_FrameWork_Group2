@@ -11,22 +11,20 @@
     <artifactId>Generic</artifactId>
     <dependencies>
         <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-server</artifactId>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
         </dependency>
-
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi</artifactId>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-server</artifactId>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
@@ -37,45 +35,28 @@
             <artifactId>poi-ooxml</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-ooxml-schemas</artifactId>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-scratchpad</artifactId>
+            <groupId>com.relevantcodes</groupId>
+            <artifactId>extentreports</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>ooxml-schemas</artifactId>
+            <groupId>com.google.api-client</groupId>
+            <artifactId>google-api-client</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>openxml4j</artifactId>
+            <groupId>com.google.oauth-client</groupId>
+            <artifactId>google-oauth-client-jetty</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi</artifactId>
+            <groupId>com.google.apis</groupId>
+            <artifactId>google-api-services-sheets</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-ooxml</artifactId>
+            <groupId>org.hamcrest</groupId>
+            <artifactId>hamcrest-all</artifactId>
         </dependency>
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-ooxml-schemas</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-scratchpad</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>ooxml-schemas</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>openxml4j</artifactId>
-        </dependency>
-
     </dependencies>
 </project>
