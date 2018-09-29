@@ -24,6 +24,12 @@ public class GoogleSheetsPage extends CommonAPI {
     WebElement signInButton;
     @FindBy(xpath = "//p[@id='errf']")
     WebElement invalidMsg;
+
+    public void signInn(){
+        bellButton.click();
+        clickOnSignIn.click();
+    }
+
     //ALI_GS_TC1
     public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
         // Build a new authorized API client service.

@@ -20,7 +20,7 @@ public class HomePage extends CommonAPI {
     WebElement searchinputbox;
     @FindBy(xpath = "//*[@id=\"gh-eb-Alerts\"]/div/button")
     public static WebElement bellButton;
-    @FindBy(xpath = "//div[@id='ghn-err']")
+    @FindBy(css = "#ghn-err")
     public static WebElement clickOnSignIn;
 
     public void InputSearchBox(){
