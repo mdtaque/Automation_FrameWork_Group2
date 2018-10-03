@@ -5,6 +5,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
+import reporting.TestLogger;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,8 +31,6 @@ public class HomePageClick extends CommonAPI {
     @FindBy(xpath = "//input[@class='ng-valid ng-dirty']")
     WebElement nextSearchBox;
 
-
-
     public void searchBoxClick() {
         searchicon.click();
     }
@@ -50,6 +49,7 @@ public class HomePageClick extends CommonAPI {
         }
     }
     public void clicklogo() {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickonlogo.click();
     }
     public void getLinks() {
@@ -63,7 +63,6 @@ public class HomePageClick extends CommonAPI {
     public void partialLinkText() {
         verifyPartialLinkText.click();
     }
-
     public static List<String> listOfString() {
 
         List<String> list = new ArrayList<String>();
@@ -72,9 +71,5 @@ public class HomePageClick extends CommonAPI {
 
         return list;
     }
-//    public void More(String value) throws InterruptedException {
-//        Select select = new Select(clickOnMore);
-//        select.selectByValue(value);
-//    }
 }
 

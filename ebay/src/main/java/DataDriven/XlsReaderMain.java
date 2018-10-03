@@ -25,12 +25,7 @@ public class XlsReaderMain extends CommonAPI {
         bellbutton.click();
         signin.click();
         createaccount.click();
-//        Actions actions = new Actions(driver);
-//        actions.moveToElement(bellbutton).perform();
-//        Thread.sleep(3000);
-//        actions.moveToElement(signin).click().perform();
     }
-
     public void creatAccountOnEbay(String first, String last, String email, String pass) throws InterruptedException {
             goToCreateAccountPage();
             firstname.sendKeys(first);

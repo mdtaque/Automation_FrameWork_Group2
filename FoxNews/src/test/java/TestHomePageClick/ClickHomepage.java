@@ -78,9 +78,5 @@ public class ClickHomepage extends HomePageClick {
     @Test
     public void allItemList() {
     }
-//    @Test
-//    public void dropDown() throws InterruptedException {
-//        objofHomePage.More("Movies");
-//    }
 }
 

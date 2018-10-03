@@ -38,7 +38,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
 
-    public WebDriver driver = null;
+    public WebDriver driver;
     public String browserstack_username = "mdrifattaque1";
     public String browserstack_accesskey = "wb76kksaAYVDv6yivyzb";
     public String saucelabs_username = "";
@@ -177,7 +177,7 @@ public class CommonAPI {
 
     @AfterMethod
     public void cleanUp() {
-        // driver.close();
+         driver.quit();
     }
 
     public void clickOnCss(String locator) {
@@ -195,7 +195,6 @@ public class CommonAPI {
             }
         }
     }
-
     public void typeOnCss(String locator, String value) {
         driver.findElement(By.cssSelector(locator)).sendKeys(value);
     }
@@ -208,7 +207,6 @@ public class CommonAPI {
         }
 
     }
-
     public void clickByXpath(String locator) {
         driver.findElement(By.xpath(locator)).click();
     }

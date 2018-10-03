@@ -18,16 +18,10 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath = "//button[@class='close']")
     public static WebElement closePopUp;
 
-
-
-
-
-
 //    public void buttonClick() throws InterruptedException {
 //        button.click();
 //        Thread.sleep(3000);
 //    }
-
 
 //    public void clickOnSoftware() throws InterruptedException {
 //        software.click();
@@ -36,7 +30,6 @@ public class HomePage extends CommonAPI {
 //
 //    }
 //}
-
 
 //        Set<String> allWindows = driver.getWindowHandles();
 //        int count = allWindows.size();
@@ -51,7 +44,6 @@ public class HomePage extends CommonAPI {
 //            }
 //        driver.switchTo().window(parent);
 //        System.out.println("Parent window title is " + driver.getTitle());
-
 
 }
 

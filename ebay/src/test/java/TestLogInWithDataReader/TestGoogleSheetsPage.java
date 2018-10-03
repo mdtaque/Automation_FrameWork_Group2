@@ -11,20 +11,13 @@ import java.io.IOException;
 import java.util.List;
 
 public class TestGoogleSheetsPage extends GoogleSheetsPage {
-
-//    HomePage objOfHomePage;
-//    SignIn objOfSignInPage;
     GoogleSheetsPage objGoogleSheetsPage;
-
 
     @BeforeMethod
     public void initialization(){
-//        objOfHomePage = PageFactory.initElements(driver, HomePage.class);
-//        objOfSignInPage = PageFactory.initElements(driver, SignIn.class);
         objGoogleSheetsPage = PageFactory.initElements(driver, GoogleSheetsPage.class);
     }
-
-    // ALI_GS_TC1: Verify log in by taking data from a google sheets file
+    //Verify log in by taking data from a google sheets file
     @Test
     public void testLogInByInvalidIdPassUsingGoogleSheet() throws IOException, InterruptedException {
         sleepFor(3);

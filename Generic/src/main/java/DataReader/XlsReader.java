@@ -43,5 +43,4 @@ public class XlsReader {
         }
         return parsedData;
     }
-
 }

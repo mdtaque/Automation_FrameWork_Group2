@@ -12,10 +12,6 @@
       <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/httpcore-4.4.9.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/okhttp-3.10.0.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DemoAutomation/lib/okio-1.14.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/byte-buddy-1.8.15.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-codec-1.10.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/commons-exec-1.3.jar" afterDir="false" />
@@ -28,16 +24,67 @@
       <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/selenium-server-standalone-3.14.0.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/testng-6.8.7.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice For Midterm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/GoogleAPIs/GoogleSheetReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/GoogleAPIs/GoogleSheetReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/GoogleAPIs/GoogleSheetReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/GoogleAPIs/GoogleSheetReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/FoxNews-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/FoxNews-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/classes/HomePage/HomePageClick.class" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/classes/HomePage/HomePageClick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/DataReader/XlsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/DataReader/XlsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/src/main/java/HomepagePnt/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/src/main/java/HomepagePnt/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/target/Piit-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/target/Piit-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Piit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/main/java/DataDriven/XlsReaderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/DataDriven/XlsReaderMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/DataDrivenTest/TestXlsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/DataDrivenTest/TestXlsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/SignInUsingDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/SignInUsingDataProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/TestGoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/TestGoogleSheetsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/DataDriven/XlsReaderMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/DataDriven/XlsReaderMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/target/classes/LogInPage/GoogleSheetsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/LogInPage/GoogleSheetsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/LogInPage/SignIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/LogInPage/SignIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/ebay-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/ebay-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/DataDrivenTest/TestXlsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/DataDrivenTest/TestXlsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/TestHomePage/TestHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/TestHomePage/TestHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/TestLogInWithDataReader/SignInUsingDataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/TestLogInWithDataReader/SignInUsingDataProvider.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/TestLogInWithDataReader/TestGoogleSheetsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/TestLogInWithDataReader/TestGoogleSheetsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/ebayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/ebayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld.java/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" afterDir="false" />
@@ -58,6 +105,7 @@
     <ignored path="$PROJECT_DIR$/ebay/target/" />
     <ignored path="$PROJECT_DIR$/Piit/target/" />
     <ignored path="$PROJECT_DIR$/xxx/target/" />
+    <ignored path="$PROJECT_DIR$/RestAPI/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,48 +126,48 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="32" />
-          <entry key="java" value="11730" />
-          <entry key="properties" value="2" />
-          <entry key="xml" value="381" />
+          <entry key="dummy" value="38" />
+          <entry key="java" value="15951" />
+          <entry key="properties" value="47" />
+          <entry key="xml" value="412" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11730" />
-          <entry key="PLAIN_TEXT" value="75" />
-          <entry key="Properties" value="2" />
-          <entry key="XML" value="338" />
+          <entry key="JAVA" value="15951" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Properties" value="47" />
+          <entry key="XML" value="369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="8" />
+          <entry key="class" value="11" />
           <entry key="html" value="1" />
-          <entry key="java" value="185" />
+          <entry key="java" value="274" />
           <entry key="json" value="1" />
-          <entry key="png" value="8" />
-          <entry key="properties" value="1" />
+          <entry key="png" value="14" />
+          <entry key="properties" value="4" />
           <entry key="server/PNT/Table" value="1" />
           <entry key="server/Rifat/Table" value="1" />
           <entry key="server/Rifat/Taque" value="1" />
           <entry key="server/students/profile" value="2" />
           <entry key="server/students/qtp" value="1" />
           <entry key="server/students/students" value="6" />
-          <entry key="xml" value="76" />
+          <entry key="xml" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="8" />
+          <entry key="CLASS" value="11" />
           <entry key="HTML" value="1" />
-          <entry key="Image" value="8" />
-          <entry key="JAVA" value="185" />
+          <entry key="Image" value="14" />
+          <entry key="JAVA" value="274" />
           <entry key="JSON" value="1" />
           <entry key="MONGO" value="12" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="74" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="89" />
         </counts>
       </usages-collector>
     </session>
@@ -129,11 +177,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ebay/src/main/java/Databaselatest/Databaseconnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-672">
-              <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+            <state relative-caret-position="433">
+              <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,19 +190,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
+        <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="493">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="501">
+              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/JSONServer/PostResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,56 +241,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FoxNews/src/test/java/search/InputSearch.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/main/java/Homepage/HomePageClick.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/main/java/Pages/HomePageClick.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/Homepage.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/Homepage/Homepage.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/resources/ebayTestRunner.xml" />
-        <option value="$PROJECT_DIR$/ebay/src/test/resources/runner.xml" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/test/resources/FoxNewsTestRunner.xml" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/Utility/DataReader.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestSignInDataProvider/SignInUsingDataProviderPageTest.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInTest.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithXlsReader/SignInTest.java" />
         <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithXlsReader/SignInUsingDataProvider.java" />
         <option value="$PROJECT_DIR$/ebay/src/main/java/Homepage/HomePage.java" />
         <option value="$PROJECT_DIR$/Piit/src/main/java/Homepage/HomePage.java" />
         <option value="$PROJECT_DIR$/Piit/src/test/java/TestHandlePopUp/HandlePopUpTest.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/Xls_Reader.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/DataReader/XlsReader.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/FoxNews/pom.xml" />
         <option value="$PROJECT_DIR$/ebay/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Piit/pom.xml" />
-        <option value="$PROJECT_DIR$/Piit/src/main/java/HomepagePnt/HomePage.java" />
         <option value="$PROJECT_DIR$/Piit/src/main/java/PopUpHandle/HandlePopUp.java" />
         <option value="$PROJECT_DIR$/Piit/src/test/java/TestHandlePopUp/TestPopUpHandle.java" />
         <option value="$PROJECT_DIR$/Piit/src/test/java/TestHome/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java" />
         <option value="$PROJECT_DIR$/FoxNews/src/main/java/LoginPage/LogIn.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java" />
         <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestLoginPage/LoginTest.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/DataDriven/XlsReaderMain.java" />
+        <option value="$PROJECT_DIR$/Piit/src/test/resources/PIITRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/GoogleAPIs/GoogleSheetReader.java" />
+        <option value="$PROJECT_DIR$/Generic/secret.properties" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" />
         <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java" />
         <option value="$PROJECT_DIR$/ebay/src/test/java/DataDrivenTest/TestXlsReader.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/DataReader/XlsReader.java" />
+        <option value="$PROJECT_DIR$/Piit/src/main/java/HomepagePnt/HomePage.java" />
         <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/SignInUsingDataProvider.java" />
-        <option value="$PROJECT_DIR$/Piit/src/test/resources/PIITRunner.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/GoogleAPIs/GoogleSheetReader.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" />
         <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/TestGoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/DataDriven/XlsReaderMain.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java" />
         <option value="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" />
-        <option value="$PROJECT_DIR$/Generic/secret.properties" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" />
+        <option value="$PROJECT_DIR$/Piit/src/test/java/TestTableDataRead/TableDataReadTest.java" />
+        <option value="$PROJECT_DIR$/Piit/src/main/java/ReadingTableData/ReadDataFromTable.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/dataBaseConnectiom/Connection.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DataBaseTest.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/TestDatabase.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/DataBaseConnectiom/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/RestAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/JSONServer/PostsResource.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/Databaselatest/Databaseconnection.java" />
+        <option value="$PROJECT_DIR$/Generic/src/secret.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/JSONServer/PostResource.java" />
       </list>
     </option>
   </component>
@@ -240,11 +307,20 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Piit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="ebay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Piit" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="ebay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -254,10 +330,10 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="50" />
-    <option name="y" value="27" />
-    <option name="width" value="1325" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="79" />
+    <option name="y" value="23" />
+    <option name="width" value="1326" />
     <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -308,25 +384,31 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="Databaselatest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
               <item name="ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomepageEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
               <item name="ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LogInPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDataBase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
@@ -363,6 +445,67 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="databases" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Piit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Piit" type="462c0819:PsiDirectoryNode" />
+              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JSONServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -371,7 +514,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538182263551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538527119239" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -380,17 +523,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ebay/src" />
+      <recent name="$PROJECT_DIR$/Generic/src" />
       <recent name="$PROJECT_DIR$/Generic" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java" />
       <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
-      <recent name="$PROJECT_DIR$/ebay/data" />
-      <recent name="$PROJECT_DIR$/ebay/src/test/java/DataDrivenTest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src" />
+      <recent name="$PROJECT_DIR$/RestAPI/src/test" />
       <recent name="$PROJECT_DIR$/Piit/src/test" />
       <recent name="$PROJECT_DIR$/ebay/src/test" />
       <recent name="$PROJECT_DIR$/Generic/Browser-driver" />
-      <recent name="$PROJECT_DIR$/FoxNews/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -405,31 +549,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConnectToMongoDB">
-    <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
-      <module name="Generic" />
+  <component name="RunManager" selected="TestNG.DatabaseTest">
+    <configuration name="DatabaseTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="databases.*" />
+          <option name="PATTERN" value="TestDataBase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TestDataBase" />
+      <option name="MAIN_CLASS_NAME" value="TestDataBase.DatabaseTest" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignInUsingDataProvider.testLogInDataProvider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DatabaseTest.testy" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestLogInWithDataReader.*" />
+          <option name="PATTERN" value="TestDataBase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestLogInWithDataReader" />
-      <option name="MAIN_CLASS_NAME" value="TestLogInWithDataReader.SignInUsingDataProvider" />
-      <option name="METHOD_NAME" value="testLogInDataProvider" />
+      <option name="PACKAGE_NAME" value="TestDataBase" />
+      <option name="MAIN_CLASS_NAME" value="TestDataBase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testy" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -437,17 +584,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ebay" />
+    <configuration name="PostResource.deleteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestLogInWithDataReader.*" />
+          <option name="PATTERN" value="JSONServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestLogInWithDataReader" />
-      <option name="MAIN_CLASS_NAME" value="TestLogInWithDataReader.TestGoogleSheetsPage" />
-      <option name="METHOD_NAME" value="testLogInByInvalidIdPassUsingGoogleSheet" />
+      <option name="PACKAGE_NAME" value="JSONServer" />
+      <option name="MAIN_CLASS_NAME" value="JSONServer.PostResource" />
+      <option name="METHOD_NAME" value="deleteTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -455,17 +602,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHome.testGoToLoginPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ebay" />
+    <configuration name="PostResource.postTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestHomePage.*" />
+          <option name="PATTERN" value="JSONServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestHomePage" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestHome" />
-      <option name="METHOD_NAME" value="testGoToLoginPage" />
+      <option name="PACKAGE_NAME" value="JSONServer" />
+      <option name="MAIN_CLASS_NAME" value="JSONServer.PostResource" />
+      <option name="METHOD_NAME" value="postTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -473,10 +620,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/mdtaque/eclipse-workspace/GroupFramework/Piit/src/test/resources/PIITRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Piit" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Piit/src/test/resources/PIITRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+    <configuration name="PostResource.putTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JSONServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JSONServer" />
+      <option name="MAIN_CLASS_NAME" value="JSONServer.PostResource" />
+      <option name="METHOD_NAME" value="putTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -484,19 +639,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG./Users/mdtaque/eclipse-workspace/GroupFramework/Piit/src/test/resources/PIITRunner.xml" />
-      <item itemvalue="TestNG.SignInUsingDataProvider.testLogInDataProvider" />
-      <item itemvalue="TestNG.TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" />
-      <item itemvalue="TestNG.TestHome.testGoToLoginPage" />
-      <item itemvalue="Application.ConnectToMongoDB" />
+      <item itemvalue="TestNG.DatabaseTest.testy" />
+      <item itemvalue="TestNG.PostResource.postTest" />
+      <item itemvalue="TestNG.PostResource.putTest" />
+      <item itemvalue="TestNG.PostResource.deleteTest" />
+      <item itemvalue="TestNG.DatabaseTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConnectToMongoDB" />
-        <item itemvalue="TestNG.TestHome.testGoToLoginPage" />
-        <item itemvalue="TestNG.TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" />
-        <item itemvalue="TestNG.SignInUsingDataProvider.testLogInDataProvider" />
-        <item itemvalue="TestNG./Users/mdtaque/eclipse-workspace/GroupFramework/Piit/src/test/resources/PIITRunner.xml" />
+        <item itemvalue="TestNG.DatabaseTest" />
+        <item itemvalue="TestNG.DatabaseTest.testy" />
+        <item itemvalue="TestNG.PostResource.deleteTest" />
+        <item itemvalue="TestNG.PostResource.putTest" />
+        <item itemvalue="TestNG.PostResource.postTest" />
       </list>
     </recent_temporary>
   </component>
@@ -514,42 +669,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestGoogleSheetsPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.09.28 at 16h 23m 18s.xml">
-      <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 18h 54m 16s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetsPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.09.28 at 16h 26m 33s.xml">
-      <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 18h 58m 38s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetsPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.09.28 at 16h 31m 00s.xml">
-      <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 18h 59m 49s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetsPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.09.28 at 16h 35m 18s.xml">
-      <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 19h 03m 04s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetsPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.09.28 at 16h 36m 51s.xml">
-      <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 19h 06m 07s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetsPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.09.28 at 16h 39m 16s.xml">
-      <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 19h 12m 04s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGoogleSheetsPage_testLogInByInvalidIdPassUsingGoogleSheet - 2018.09.28 at 16h 50m 32s.xml">
-      <configuration name="TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 19h 13m 40s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testGoToLoginPage - 2018.09.28 at 16h 53m 06s.xml">
-      <configuration name="TestHome.testGoToLoginPage" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.02 at 19h 14m 57s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testGoToLoginPage - 2018.09.28 at 16h 55m 37s.xml">
-      <configuration name="TestHome.testGoToLoginPage" configurationId="TestNG" />
+    <history-entry file="DatabaseTest - 2018.10.02 at 19h 49m 45s.xml">
+      <configuration name="DatabaseTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHome_testGoToLoginPage - 2018.09.28 at 16h 57m 14s.xml">
-      <configuration name="TestHome.testGoToLoginPage" configurationId="TestNG" />
+    <history-entry file="DatabaseTest - 2018.10.02 at 20h 04m 56s.xml">
+      <configuration name="DatabaseTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="27" width="1284" height="830" extended-state="0" />
+    <frame x="79" y="23" width="1326" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798387" weight="0.8589421" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.16043614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -558,7 +713,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5020161" side_tool="true" weight="0.16452074" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39295393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43495935" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2807229" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -574,7 +729,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.22857143" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.03894081" />
       <window_info anchor="right" id="Mongo Explorer" order="8" weight="0.3274559" />
     </layout>
     <layout-to-restore>
@@ -610,235 +765,28 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ebay/screenshots/testLogInDataProvider (09.26.2018-17:49PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/screenshots/signInWithHover (09.26.2018-17:55PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/screenshots/testScreenShot (09.26.2018-20:12PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/Extent-Report/ExtentReport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246" />
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="1525" column="18" selection-start-line="1525" selection-start-column="18" selection-end-line="1525" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/SELENIUM/July2018WebAutomation/Pnt/src/main/java/logInPage/popUpHandlingPage/HandlePopUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/SELENIUM/July2018WebAutomation/Pnt/src/test/java/popUpHandleTest/TestPopUpHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Piit/src/test/java/TestHandlePopUp/HandlePopUpTest.java" />
-    <entry file="file://$USER_HOME$/SELENIUM/PageObjectModelFramework/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_secret.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xxx/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/resources/FoxNewsTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Piit/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Piit/src/main/java/HomepagePnt/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Piit/src/main/java/PopUpHandle/HandlePopUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Piit/src/test/java/TestHandlePopUp/TestPopUpHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Piit/src/test/java/TestHome/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1726#1727#0" expanded="true" />
-            <element signature="e#1761#1762#0" expanded="true" />
-            <element signature="e#1940#1941#0" expanded="true" />
-            <element signature="e#1978#1979#0" expanded="true" />
-            <element signature="e#2014#2015#0" expanded="true" />
-            <element signature="e#2059#2060#0" expanded="true" />
-            <element signature="e#2152#2160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/main/java/LoginPage/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/TestLoginPage/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="255">
           <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -850,22 +798,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/DataDrivenTest/TestXlsReader.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/XlsDataReaderUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        <state relative-caret-position="425">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataReader/XlsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piit/src/main/java/HomepagePnt/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piit/src/test/java/TestHandlePopUp/TestPopUpHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piit/src/test/java/TestHome/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piit/screenshots/popUpHandle (09.26.2018-21:52PM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/DataDriven/XlsReaderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/SignInUsingDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/TestGoogleSheetsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="404">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#380#381#0" expanded="true" />
@@ -896,63 +943,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Piit/src/test/resources/PIITRunner.xml">
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/DataDriven/XlsReaderMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="181">
+          <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2104#2105#0" expanded="true" />
+            <element signature="e#2140#2141#0" expanded="true" />
+            <element signature="e#2185#2186#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/screenshots/testLogInDataProvider (09.29.2018-11:15AM).png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ebay/screenshots/signInWithHover (09.26.2018-17:48PM).png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="4307" column="30" selection-start-line="4307" selection-start-column="30" selection-end-line="4307" selection-end-column="30" />
-          <folding>
-            <element signature="e#200641#200642#0" expanded="true" />
-            <element signature="e#200682#200683#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/ebay/screenshots/testScreenShot (09.26.2018-20:12PM).png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+    <entry file="file://$PROJECT_DIR$/Piit/screenshots/tableRead (09.30.2018-18:54PM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piit/src/main/java/PopUpHandle/HandlePopUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        <state relative-caret-position="448">
+          <caret line="36" column="94" selection-start-line="36" selection-start-column="94" selection-end-line="36" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="323">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/SignInUsingDataProvider.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="236">
+          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+          <folding>
+            <element signature="e#7615#7616#0" expanded="true" />
+            <element signature="e#7642#7643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piit/src/main/java/ReadingTableData/ReadDataFromTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piit/src/test/java/TestTableDataRead/TableDataReadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -961,108 +1051,203 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-460">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="255">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="161">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/TestGoogleSheetsPage.java">
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="252">
+          <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#8012#8013#0" expanded="true" />
+            <element signature="e#8042#8043#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataProviderUtilityWithXlsReader/Xls_Reader.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeConstructorAccessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="109">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/GoogleAPIs/GoogleSheetReader.java">
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        <state relative-caret-position="187">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/DataBaseConnectiom/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/DataReader/XlsReader.java">
+    <entry file="file://$PROJECT_DIR$/ebay/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/JSONServer/PostsResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/resources/RestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/databaseMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="77" selection-start-line="1" selection-start-column="77" selection-end-line="1" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar!/com/mongodb/client/MongoCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/secret.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        <state relative-caret-position="-26">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/Databaselatest/Databaseconnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="433">
+          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="493">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
-          <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+        <state relative-caret-position="501">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/RestAssured.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1551">
+          <caret line="158" column="39" selection-start-line="158" selection-start-column="39" selection-end-line="158" selection-end-column="39" />
+          <folding>
+            <element signature="e#6296#6297#0" expanded="true" />
+            <element signature="e#6370#6371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/JSONServer/PostResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

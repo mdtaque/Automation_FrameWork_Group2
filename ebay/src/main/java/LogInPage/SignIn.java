@@ -21,7 +21,6 @@ public class SignIn extends CommonAPI {
     public void switchToSignInForm(){
         driver.switchTo().frame(signInFrame);
     }
-
     public void logInManual(){
         emailOrUsername.sendKeys("gvhgv@gmail.com");
         password.sendKeys("5646");
@@ -29,7 +28,6 @@ public class SignIn extends CommonAPI {
         String actual =  invalidMsg.getText();
         System.out.println("SignIn Error Message: " + actual);
     }
-
     public String logInByExcelData(String email, String passCode){
         emailOrUsername.sendKeys(email);
         password.sendKeys(passCode);
@@ -38,5 +36,4 @@ public class SignIn extends CommonAPI {
         System.out.println("SignIn Error Message: " + actual);
         return actual;
     }
-
 }

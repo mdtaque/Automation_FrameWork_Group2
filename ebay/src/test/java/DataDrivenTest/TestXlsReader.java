@@ -17,24 +17,17 @@ public class TestXlsReader extends XlsReaderMain {
     public void init(){
         objOfXlsReaderMain = PageFactory.initElements(driver, XlsReaderMain.class);
     }
-//    public void createTestObj(){
-//        this.objOfXlsReaderMain = new XlsReaderMain();
-//    }
-
     @Test
     public void signInWithHover() throws InterruptedException {
         objOfXlsReaderMain.goToCreateAccountPage();
     }
-
     @DataProvider
     public Object[][] getExcelTestData(){
         Object data[][] = XlsReader.getTestData(0);
         return data;
     }
-
     @Test(dataProvider = "getExcelTestData")
     public void testCreatingAccount(String FirstName, String LastName, String Email, String PassWord) throws InterruptedException {
         objOfXlsReaderMain.creatAccountOnEbay(FirstName, LastName, Email, PassWord);
     }
-
 }

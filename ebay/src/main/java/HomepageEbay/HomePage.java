@@ -5,6 +5,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
+import reporting.TestLogger;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -24,6 +25,7 @@ public class HomePage extends CommonAPI {
     public static WebElement clickOnSignIn;
 
     public void InputSearchBox(){
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         searchinputbox.sendKeys("perfume", Keys.ENTER);
     }
 
@@ -43,7 +45,6 @@ public class HomePage extends CommonAPI {
             text.add(web.getText());
         }
         return text;
-
     }
     public void getList(){
         for(String st : listOfElements()){
@@ -66,6 +67,4 @@ public class HomePage extends CommonAPI {
     public void screenShot() throws IOException {
         takeScreenShot("https://www.ebay.com/");
     }
-
-
 }

@@ -29,8 +29,6 @@ public class GoogleSheetsPage extends CommonAPI {
         bellButton.click();
         clickOnSignIn.click();
     }
-
-    //ALI_GS_TC1
     public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
         // Build a new authorized API client service.
         Sheets service = getSheetsService();
@@ -44,8 +42,7 @@ public class GoogleSheetsPage extends CommonAPI {
             return values;
         }
     }
-
-    // //ALI_GS_TC1 LogIn by using Google Sheet sheet data
+    //LogIn by using Google Sheet sheet data
     public List<String> signInByInvalidIdPass(String spreadsheetId, String range) throws IOException, InterruptedException {
 
         List<List<Object>> col2Value = getSpreadSheetRecords(spreadsheetId, range);

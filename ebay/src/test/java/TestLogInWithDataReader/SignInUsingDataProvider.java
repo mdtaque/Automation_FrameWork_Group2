@@ -22,31 +22,21 @@ public class SignInUsingDataProvider extends SignIn {
         objOfSignIn = PageFactory.initElements(driver, SignIn.class);
         objOfHomePage = PageFactory.initElements(driver, HomePage.class);
     }
-
     @Test
     public void testLogInManual() throws InterruptedException {
         objOfHomePage.goToLoginPage();
         objOfSignIn.logInManual();
     }
-
     @DataProvider
     public Iterator<Object[]> supplyData() {
-
         ArrayList<Object[]> testData =
                 XlsDataReaderUtil.getDataFromExcel();
-
         return testData.iterator();
-
     }
-
     @Test ( dataProvider = "supplyData")
     public void testLogInDataProvider(String email, String passCode, String message) throws InterruptedException {
-//        TestLogger.log("email: " + email);
-//        TestLogger.log("password: " + passCode);
-//        TestLogger.log("message: " + message);
-          objOfHomePage.goToLoginPage();
+        objOfHomePage.goToLoginPage();
         String actual= objOfSignIn.logInByExcelData(email,passCode);
-          Assert.assertEquals(actual,message);
-          //TestLogger.log("Test Passed");
+        Assert.assertEquals(actual,message);
     }
 }
