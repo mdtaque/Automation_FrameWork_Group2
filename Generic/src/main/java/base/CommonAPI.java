@@ -18,7 +18,7 @@ public class CommonAPI {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
     }
-
+//
 //    @AfterMethod
 //    public void cleanUp(){
 //        driver.close();
