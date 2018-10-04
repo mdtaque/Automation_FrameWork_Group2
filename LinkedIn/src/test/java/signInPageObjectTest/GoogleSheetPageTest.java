@@ -26,9 +26,10 @@ public class GoogleSheetPageTest extends GoogleSheetPage {
         objOfSignInPage = PageFactory.initElements(driver, SignInPage.class);
         objGoogleSheetsPage = PageFactory.initElements(driver, GoogleSheetPage.class);
     }
-    // ALI_GS_TC1: Verify log in by taking data from a google sheets file
+    // Verify log in by taking data from a google sheets file
     @Test
     public void testLogInByInvalidIdPassUsingGoogleSheet() throws IOException, InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         objOfSignInPage.signInWithWebElement(email,passWord);
         int i = 0;
         String spreadsheetId = "1vCl6wADiFCHs4FPclyOGRbTioTyhAJXaZysk_0ce4Eo";
@@ -41,7 +42,6 @@ public class GoogleSheetPageTest extends GoogleSheetPage {
             System.out.println(expectedErrorMessage.get(i) + ": Search - Passed");
             i++;
         }
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         System.out.println("testLogInByInvalidIdPassUsingGoogleSheet Passed");
     }
 }

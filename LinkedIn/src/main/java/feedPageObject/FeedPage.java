@@ -53,5 +53,4 @@ public class FeedPage extends CommonAPI {
         searchBox.sendKeys("Barack Obama");
         searchButton.click();
     }
-
 }

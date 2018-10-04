@@ -2,65 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d21f956d-2659-4ad4-9b3d-104503130302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Generic/Browser-driver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/databaseInfo/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/KeyWordDriven.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/LinkedInDataReader.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/UnitTestConnectDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/parser/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/.credential/sheets-googleapis/StoredCredential" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/feedPageObject/FeedPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/KeyWordSignIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/ByInputFromXls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/universityPageObject/NewYorkUniversity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/universityPageObject/UniversityPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/feedPageObjectTest/FeedPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/HomePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/KeyWordSignInTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/ByInputFromXlsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SingInPageTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/universityPageObjectTest/NewYorkUniversityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/universityPageObjectTest/UniversityPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/PostResourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/test/java/weatherMap/GetRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Costco/data/costco.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Costco/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Costco/src/main/java/home/ItemToBeSearched.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Costco/src/main/java/home/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Costco/src/main/java/menu/page/MenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Costco/src/test/java/homePageObjectTest/TestSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Costco/src/test/java/menu/TestDropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/resources/client_secret.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedIn/data/KeyWordDriven.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedIn/data/LinkedInDataReader.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedIn/src/test/resources/LinkedInTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/main/java/feedPageObject/FeedPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/feedPageObject/FeedPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/KeyWordSignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/KeyWordSignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/ByInputFromXls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/KeyWordSignInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/KeyWordSignInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/ByInputFromXlsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/ByInputFromXlsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SingInPageTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SingInPageTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/classes/homePageObject/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/classes/homePageObject/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/classes/homePageObject/KeyWordSignIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/classes/homePageObject/KeyWordSignIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/classes/signInPageObject/ByInputFromXls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/classes/signInPageObject/GoogleSheetPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/classes/signInPageObject/GoogleSheetPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/classes/signInPageObject/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/classes/signInPageObject/SignInPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/classes/signInPageObject/SignInPage2.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/classes/signInPageObject/SignInPage2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/homePageObjectTest/KeyWordSignInTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/homePageObjectTest/KeyWordSignInTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/homePageObjectTest/KeyWordSignInTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/homePageObjectTest/KeyWordSignInTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/ByInputFromXlsTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/ByInputFromXlsTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/ByInputFromXlsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/ByInputFromXlsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/GoogleSheetPageTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/GoogleSheetPageTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/GoogleSheetPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/GoogleSheetPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SignInPageTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SignInPageTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SignInPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SignInPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SingInPageTest2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SingInPageTest2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SingInPageTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/target/test-classes/signInPageObjectTest/SingInPageTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/src/test/java/weatherMap/GetRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/src/test/java/weatherMap/GetRequestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/GroupFramework-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/LinkedIn/target/" />
     <ignored path="$PROJECT_DIR$/RestAPI/target/" />
+    <ignored path="$PROJECT_DIR$/Costco/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,33 +113,37 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JAVA" value="74" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="139" />
+          <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="5" />
+          <entry key="XML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="StoredCredential" value="1" />
-          <entry key="html" value="1" />
-          <entry key="java" value="74" />
+          <entry key="html" value="2" />
+          <entry key="java" value="139" />
+          <entry key="json" value="1" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="5" />
+          <entry key="xml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="87" />
-          <entry key="xml" value="6" />
+          <entry key="dummy" value="12" />
+          <entry key="java" value="541" />
+          <entry key="xml" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="87" />
-          <entry key="XML" value="6" />
+          <entry key="JAVA" value="541" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="XML" value="87" />
         </counts>
       </usages-collector>
     </session>
@@ -146,74 +151,47 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/databaseInfo/secret.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java">
+        <entry file="file://$PROJECT_DIR$/Costco/src/main/java/home/ItemToBeSearched.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2466">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedIn/.credential/sheets-googleapis/StoredCredential">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/PostResourceTest.java">
+        <entry file="file://$PROJECT_DIR$/Costco/src/main/java/home/SearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="254">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Costco/src/test/java/homePageObjectTest/TestSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Costco/src/test/java/menu/TestDropDownMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -222,8 +200,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/weatherMap/GetRequestTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Costco/src/main/java/menu/page/MenuPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="134" selection-start-line="38" selection-start-column="134" selection-end-line="38" selection-end-column="134" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -245,31 +251,48 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/LinkedIn/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/UnitTestConnectDB.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage2.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/main/java/universityPageObject/NewYorkUniversity.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/main/java/universityPageObject/UniversityPage.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/ByInputFromXls.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest2.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/feedPageObject/FeedPage.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/HomePage.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/test/java/feedPageObjectTest/FeedPageTest.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/HomePageTest.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/KeyWordSignIn.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/KeyWordSignInTest.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/ByInputFromXlsTest.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest.java" />
-        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SingInPageTest2.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/test/java/universityPageObjectTest/UniversityPageTest.java" />
         <option value="$PROJECT_DIR$/LinkedIn/src/test/java/universityPageObjectTest/NewYorkUniversityTest.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/homePagrObject/HomePage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/home/HomePage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/home/ItemToBeSearch.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/home/ItemToBeSearched.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/home/search/TestSearch.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/menu/page/MenuPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/menu/TestDropDownMenu.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/ByInputFromXls.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/HomePage.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/KeyWordSignIn.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage2.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/home/search/KeyWordSignInTest.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/ByInputFromXlsTest.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SingInPageTest2.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/PostResourceTest.java" />
+        <option value="$PROJECT_DIR$/RestAPI/src/test/java/weatherMap/GetRequestTest.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/test/resources/LinkedInTestRunner.xml" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/feedPageObject/FeedPage.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest.java" />
+        <option value="$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage.java" />
+        <option value="$PROJECT_DIR$/Costco/pom.xml" />
+        <option value="$PROJECT_DIR$/RestAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/home/SearchPage.java" />
       </list>
     </option>
   </component>
@@ -282,17 +305,44 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Automation_Framework_Group2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Automation_Framework_Group2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LinkedIn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LinkedIn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="668" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="758" />
+    <option name="width" value="1213" />
     <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -315,20 +365,79 @@
             <path>
               <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedIn" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedIn" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedIn" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="homePageObjectTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_FrameWork_Group2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_FrameWork_Group2" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,7 +448,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538633664148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538679649656" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -348,21 +457,22 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Costco/src/test" />
       <recent name="$PROJECT_DIR$/LinkedIn/src/test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="menu.page" />
+      <recent name="menu" />
+      <recent name="home.search" />
       <recent name="weatherMap" />
       <recent name="jsonServer" />
-      <recent name="signInPageObjectTest" />
-      <recent name="signInPageObject" />
-      <recent name="utility" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LinkedIn/src/test/resources" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
+      <recent name="$PROJECT_DIR$/LinkedIn/data" />
+      <recent name="$PROJECT_DIR$/Costco/data" />
       <recent name="$PROJECT_DIR$/LinkedIn/.credential" />
-      <recent name="$PROJECT_DIR$/Generic/databaseInfo" />
-      <recent name="$PROJECT_DIR$/LinkedIn/Extent-Report" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader" />
-      <recent name="$PROJECT_DIR$/Generic/Browser-driver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -377,18 +487,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTest">
-    <configuration name="ByInputFromXlsTest.signInWithInvalidIdAndPassword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HomePageTest.testCarrerLink">
+    <configuration name="FeedPageTest.testSearchPeople" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LinkedIn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="signInPageObjectTest.*" />
+          <option name="PATTERN" value="feedPageObjectTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="signInPageObjectTest" />
-      <option name="MAIN_CLASS_NAME" value="signInPageObjectTest.ByInputFromXlsTest" />
-      <option name="METHOD_NAME" value="signInWithInvalidIdAndPassword" />
+      <option name="PACKAGE_NAME" value="feedPageObjectTest" />
+      <option name="MAIN_CLASS_NAME" value="feedPageObjectTest.FeedPageTest" />
+      <option name="METHOD_NAME" value="testSearchPeople" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -396,7 +506,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomePageTest.testCarrerLink" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LinkedIn" />
       <extension name="coverage">
         <pattern>
@@ -406,23 +516,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="homePageObjectTest" />
       <option name="MAIN_CLASS_NAME" value="homePageObjectTest.HomePageTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostResourceTest.deletePost" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jsonServer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jsonServer" />
-      <option name="MAIN_CLASS_NAME" value="jsonServer.PostResourceTest" />
-      <option name="METHOD_NAME" value="deletePost" />
+      <option name="METHOD_NAME" value="testCarrerLink" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -430,16 +524,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KeyWordSignInTest.testSignInByKeyWord" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LinkedIn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home.search" />
+      <option name="MAIN_CLASS_NAME" value="home.search.KeyWordSignInTest" />
+      <option name="METHOD_NAME" value="testSignInByKeyWord" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInPageTest.testInvalidUsernameAndInvalidPassword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LinkedIn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signInPageObjectTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signInPageObjectTest" />
+      <option name="MAIN_CLASS_NAME" value="signInPageObjectTest.SignInPageTest" />
+      <option name="METHOD_NAME" value="testInvalidUsernameAndInvalidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shams/IdeaProjects/Automation_FrameWork_Group2/LinkedIn/src/test/resources/LinkedInTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LinkedIn" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/LinkedIn/src/test/resources/LinkedInTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.ByInputFromXlsTest.signInWithInvalidIdAndPassword" />
-      <item itemvalue="TestNG.PostResourceTest.deletePost" />
-      <item itemvalue="TestNG.HomePageTest" />
+      <item itemvalue="TestNG.KeyWordSignInTest.testSignInByKeyWord" />
+      <item itemvalue="TestNG.FeedPageTest.testSearchPeople" />
+      <item itemvalue="TestNG./Users/shams/IdeaProjects/Automation_FrameWork_Group2/LinkedIn/src/test/resources/LinkedInTestRunner.xml" />
+      <item itemvalue="TestNG.SignInPageTest.testInvalidUsernameAndInvalidPassword" />
+      <item itemvalue="TestNG.HomePageTest.testCarrerLink" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomePageTest" />
-        <item itemvalue="TestNG.PostResourceTest.deletePost" />
-        <item itemvalue="TestNG.ByInputFromXlsTest.signInWithInvalidIdAndPassword" />
+        <item itemvalue="TestNG.HomePageTest.testCarrerLink" />
+        <item itemvalue="TestNG.SignInPageTest.testInvalidUsernameAndInvalidPassword" />
+        <item itemvalue="TestNG./Users/shams/IdeaProjects/Automation_FrameWork_Group2/LinkedIn/src/test/resources/LinkedInTestRunner.xml" />
+        <item itemvalue="TestNG.FeedPageTest.testSearchPeople" />
+        <item itemvalue="TestNG.KeyWordSignInTest.testSignInByKeyWord" />
       </list>
     </recent_temporary>
   </component>
@@ -463,27 +607,52 @@
     <history-entry file="PostResourceTest_deletePost - 2018.10.04 at 02h 08m 19s.xml">
       <configuration name="PostResourceTest.deletePost" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomePageTest - 2018.10.04 at 02h 14m 15s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleSheetPageTest_testLogInByInvalidIdPassUsingGoogleSheet - 2018.10.04 at 12h 36m 44s.xml">
+      <configuration name="GoogleSheetPageTest.testLogInByInvalidIdPassUsingGoogleSheet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeyWordSignInTest_testSignInByKeyWord - 2018.10.04 at 12h 42m 22s.xml">
+      <configuration name="KeyWordSignInTest.testSignInByKeyWord" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeyWordSignInTest_testSignInByKeyWord - 2018.10.04 at 12h 43m 03s.xml">
+      <configuration name="KeyWordSignInTest.testSignInByKeyWord" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FeedPageTest_testSearchPeople - 2018.10.04 at 13h 18m 24s.xml">
+      <configuration name="FeedPageTest.testSearchPeople" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_shams_IdeaProjects_Automation_FrameWork_Group2_LinkedIn_src_test_resources_LinkedInTestRunner_xml - 2018.10.04 at 13h 29m 57s.xml">
+      <configuration name="/Users/shams/IdeaProjects/Automation_FrameWork_Group2/LinkedIn/src/test/resources/LinkedInTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignInPageTest_testInvalidUsernameAndInvalidPassword - 2018.10.04 at 14h 08m 55s.xml">
+      <configuration name="SignInPageTest.testInvalidUsernameAndInvalidPassword" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest_testCarrerLink - 2018.10.04 at 14h 11m 13s.xml">
+      <configuration name="HomePageTest.testCarrerLink" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="657" height="831" extended-state="0" />
+    <frame x="0" y="23" width="1213" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37560976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26814687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32882273" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49950933" weight="0.32882273" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32882273" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31529093" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49950933" visible="true" weight="0.21244925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49548194" weight="0.07713126" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5045181" side_tool="true" weight="0.21484992" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49548194" weight="0.18538566" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50049067" side_tool="true" weight="0.4803789" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49899396" weight="0.31755725" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -493,11 +662,16 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.37216493" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.4126621" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -512,45 +686,11 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/11-Car.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/UnitTestConnectDB.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -564,31 +704,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/parser/Student.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsReader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/Extent-Report/ExtentReport.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/universityPageObject/NewYorkUniversity.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -610,138 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4224#4225#0" expanded="true" />
-            <element signature="e#4278#4279#0" expanded="true" />
-            <element signature="e#4656#4657#0" expanded="true" />
-            <element signature="e#4690#4691#0" expanded="true" />
-            <element signature="e#4757#4758#0" expanded="true" />
-            <element signature="e#4791#4792#0" expanded="true" />
-            <element signature="e#4845#4846#0" expanded="true" />
-            <element signature="e#4876#4877#0" expanded="true" />
-            <element signature="e#4911#4912#0" expanded="true" />
-            <element signature="e#4945#4946#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/feedPageObject/FeedPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1394#1395#0" expanded="true" />
-            <element signature="e#1431#1432#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1500#1501#0" expanded="true" />
-            <element signature="e#1532#1533#0" expanded="true" />
-            <element signature="e#1573#1574#0" expanded="true" />
-            <element signature="e#1606#1607#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="66" column="57" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/feedPageObjectTest/FeedPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/HomePageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/KeyWordSignIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/KeyWordSignInTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/ByInputFromXls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SingInPageTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/universityPageObjectTest/UniversityPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -756,16 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/ByInputFromXlsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/databaseInfo/secret.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -776,10 +749,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+    <entry file="file://$PROJECT_DIR$/LinkedIn/.credential/sheets-googleapis/StoredCredential">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -790,10 +789,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -804,25 +803,287 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedIn/.credential/sheets-googleapis/StoredCredential">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        <state relative-caret-position="3015">
+          <caret line="203" column="6" selection-start-line="203" selection-start-column="6" selection-end-line="203" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/ByInputFromXls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsDataReaderUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="126" selection-start-line="12" selection-start-column="126" selection-end-line="12" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/dataProviderUtilityWithXlsReader/XlsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="167" column="24" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/KeyWordSignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="39" column="134" selection-start-line="39" selection-start-column="134" selection-end-line="39" selection-end-column="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/KeyWordSignInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/ByInputFromXlsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/weatherMap/GetRequestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/feedPageObjectTest/FeedPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/resources/LinkedInTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SingInPageTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/SignInPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="53" column="75" selection-start-line="53" selection-start-column="75" selection-end-line="53" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RestAPI/src/test/java/jsonServer/PostResourceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="190">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/homePageObjectTest/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="25" column="134" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/homePageObject/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="140" column="61" selection-start-line="140" selection-start-column="61" selection-end-line="140" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/feedPageObject/FeedPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/test/java/signInPageObjectTest/GoogleSheetPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedIn/src/main/java/signInPageObject/GoogleSheetPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="134" selection-start-line="38" selection-start-column="134" selection-end-line="38" selection-end-column="134" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/home/ItemToBeSearched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/homePageObjectTest/TestSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/menu/TestDropDownMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/menu/page/MenuPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/home/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -884,6 +1145,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

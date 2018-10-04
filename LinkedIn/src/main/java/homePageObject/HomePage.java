@@ -4,6 +4,7 @@ import base.CommonAPI;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import reporting.TestLogger;
 
 public class HomePage extends CommonAPI {
     HomePage homePage;
@@ -95,21 +96,26 @@ public class HomePage extends CommonAPI {
         return bool;
     }
     public boolean goToCareerPage(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         careerLink.click();
         return true;
     }
     public void gotoSignUpPage(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         signUpPage.click();
     }
     //go to University page
     public void clickUniversityLink(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         university.click();
     }
     //go to Jobs page
     public void gotoJobsPage(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         jobLink.click();
     }
     public void clickSalaryLink(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         salaryLink.click();
     }
     //go to help center page and collect the headline text
@@ -120,6 +126,7 @@ public class HomePage extends CommonAPI {
         return str;
     }
     public void newUserSingUp(String firstName, String lastName, String eMail, String password) throws InterruptedException{
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         firstNameField.sendKeys(firstName);
         Thread.sleep(1000);
         lastNameField.sendKeys(lastName);

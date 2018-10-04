@@ -3,7 +3,6 @@ package weatherMap;
 import io.restassured.path.json.JsonPath;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import static io.restassured.RestAssured.get;
 
 public class GetRequestTest {
@@ -20,14 +19,12 @@ public class GetRequestTest {
         long time = get(url).getTime();
         Assert.assertTrue(time > 0.0);
     }
-
     @Test
     public void testResponseCity(){
         JsonPath jsonPathEvaluator = get(url).jsonPath();
         String city = jsonPathEvaluator.get("name");
         Assert.assertEquals(city,"London");
     }
-
     @Test
     public void testResponseID(){
         JsonPath jsonPathEvaluator = get(url).jsonPath();

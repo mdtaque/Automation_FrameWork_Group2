@@ -1,25 +1,24 @@
 package signInPageObjectTest;
 
+import base.CommonAPI;
 import homePageObject.HomePage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import reporting.TestLogger;
-import signInPageObject.ByInputFromXls;
 import signInPageObject.SignInPage;
+import utility.DataReader;
 import java.io.IOException;
-
 import static base.CommonAPI.convertToString;
 import static base.CommonAPI.implicitWait;
 
-public class ByInputFromXlsTest extends ByInputFromXls {
+public class ByInputFromXlsTest extends CommonAPI {
+    DataReader dtr = new DataReader();
     HomePage objectHomePage;
     SignInPage objectSignInPage;
-    ByInputFromXls objectByInput;
     @BeforeMethod
     public void initialization(){
         objectHomePage = PageFactory.initElements(driver, HomePage.class);
-        objectByInput = PageFactory.initElements(driver, ByInputFromXls.class);
         objectSignInPage = PageFactory.initElements(driver, SignInPage.class);
     }
     @Test

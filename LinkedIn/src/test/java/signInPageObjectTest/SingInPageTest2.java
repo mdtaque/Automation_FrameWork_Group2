@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 import reporting.TestLogger;
 import signInPageObject.SignInPage;
 import signInPageObject.SignInPage2;
-
 public class SingInPageTest2 extends SignInPage2 {
 
     SignInPage objectSignInPage;

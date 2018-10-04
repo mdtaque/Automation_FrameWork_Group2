@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>LinkedIn</module>
         <module>RestAPI</module>
+        <module>Costco</module>
     </modules>
 
     <dependencyManagement>

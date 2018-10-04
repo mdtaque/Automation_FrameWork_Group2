@@ -26,8 +26,10 @@ import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.lang.reflect.Method;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
@@ -198,7 +200,7 @@ public class CommonAPI {
         webElement.sendKeys(value + Keys.ENTER);
     }
     //public void clearInputBox(WebElement webElement){
-    // webElement.clear();
+    //webElement.clear();
     //}
     public String getTextByWebElement(WebElement webElement){
         String text = webElement.getText();
@@ -249,5 +251,28 @@ public class CommonAPI {
         String splitString ;
         splitString = StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(st), ' ');
         return splitString;
+    }
+    public List<WebElement> getListOfWebElementsByCss(String locator) {
+        List<WebElement> list = new ArrayList<WebElement>();
+        list = driver.findElements(By.cssSelector(locator));
+        return list;
+    }
+    public List<String> getListOfString(List<WebElement> list) {
+        List<String> items = new ArrayList<String>();
+        for (WebElement element : list) {
+            items.add(element.getText());
+        }
+        return items;
+    }
+    public List<String> getTextFromWebElements(String locator){
+        List<WebElement> element = new ArrayList<WebElement>();
+        List<String> text = new ArrayList<String>();
+        element = driver.findElements(By.cssSelector(locator));
+        for(WebElement web:element){
+            String st = web.getText();
+            text.add(st);
+        }
+
+        return text;
     }
 }
