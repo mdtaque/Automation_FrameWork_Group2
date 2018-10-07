@@ -15,10 +15,7 @@ public class LendingPageTest extends LendingPage {
     }
 
     @Test
-    public void lendingAccountTest()throws Exception{
-        Actions actions = new Actions(driver);
-        Thread.sleep(6000);
-        actions.moveToElement(lendingWebElement).perform();
-
+    public void mouseOverLendingTest(){
+        mouseOverLending();
     }
 }

@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CITI" />
+        <module name="Costco" />
         <module name="cvs" />
         <module name="Generic" />
-        <module name="Rakuten" />
+        <module name="RESTapi" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Rakuten" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

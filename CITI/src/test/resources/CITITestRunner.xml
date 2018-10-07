@@ -20,6 +20,7 @@
             <!--<class name="bankingPage.BankingPageTest"/>-->
             <!--<class name="homeScreenShot.HomeScreenShotTest"/>-->
             <!--<class name="alertHandlePage.AlertHandlePageTest"/>-->
+            <!--<class name="creditCards.CreditCardsTest"/>-->
         </classes>
     </test>
 </suite>

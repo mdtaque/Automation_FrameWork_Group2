@@ -1,6 +1,13 @@
-<<<<<<< HEAD
-/Users/riadh/IdeaProjects/Automation_FrameWork_Group2/Generic/src/main/java/base/CommonAPI.java
-=======
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/databases/ConnectToSqlDB.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/utility/DataReader.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/GoogleAPIs/GoogleSheetReader.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/databases/Student.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/reporting/TestLogger.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/databases/ConnectToMongoDB.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/reporting/ExtentTestManager.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/reporting/ApplicationLog.java
 /Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/base/CommonAPI.java
-/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/dataReader/InputFromExcel.java
->>>>>>> bbd420c15fb1907a8af6718aa238138c008e2ea1
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/databases/User.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/reporting/ExtentManager.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/dataProvider/Xls_Reader.java
+/Users/hasan/Desktop/Automation_FrameWork_Group2/Generic/src/main/java/dataProvider/XlsDataReaderUtil.java

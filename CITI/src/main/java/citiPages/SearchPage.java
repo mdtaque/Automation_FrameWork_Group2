@@ -14,10 +14,10 @@ public class SearchPage extends CommonAPI{
     public static WebElement searchButtonWebElement;
     //public void HomeSearchButton(){searchButtonWebElement.click();}
 
-    @FindBy(how = How.CSS, using = ".citi-autocomplete-content-searchbox")
+    @FindBy(how = How.XPATH, using = "//*[@id=\"citi-autocomplete-content-searchbox-livesearch\"]")
     public static WebElement searchInputWebElement;
 
-    @FindBy(how = How.CSS, using = ".citi-autocomplete-content-searchbox-go")
+    @FindBy(how = How.XPATH, using = "//*[@id=\"citi-autocomplete-content\"]/div[1]/button[2]")
     public static WebElement submitButtonWebElement;
 
     public static WebElement getSearchButtonWebElement() {

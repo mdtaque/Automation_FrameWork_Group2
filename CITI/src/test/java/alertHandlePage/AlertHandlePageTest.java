@@ -12,8 +12,8 @@ public class AlertHandlePageTest extends HmAlertHandle {
         HmAlertHandle alertHandle = PageFactory.initElements(driver, HmAlertHandle.class);
     }
 
-    @Test
-    public void alertHandling(){
+   /* @Test
+    public void alertHandling() throws InterruptedException {
         PopupAlert();
-    }
+    }*/
 }

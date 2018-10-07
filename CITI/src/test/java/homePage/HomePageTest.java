@@ -5,17 +5,20 @@ import citiPages.HomePage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import reporting.TestLogger;
 
 public class HomePageTest extends HomePage {
+    HomePage objOfhomePage;
     @BeforeMethod
     public void Navigating(){
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
+       objOfhomePage = PageFactory.initElements(driver, HomePage.class);
     }
-   /* @Test
+    /*@Test
     public void openAnAccountTest(){
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         OpenAnAccount();
-    }
-    @Test
+    }*/
+    /*@Test
     public void EspanolLangTest(){
         EspanolLang();
     }
@@ -40,23 +43,32 @@ public class HomePageTest extends HomePage {
         CitiGold();
     }*/
 
-   @Test(priority = 1)
-    public void userId(){
-       InputUserId();
-   }
+  /* @Test
+    public void TestUserId() throws InterruptedException {
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+       InUserName();
+   }*/
 
-   @Test(priority = 2)
-    public void Password(){
+   /*@Test
+    public void TestPassword(){
        InputPassword();
    }
 
-   @Test(priority = 3)
-    public void SignIn(){
+   @Test
+    public void TestSignIn(){
        SignIn();
-   }
+   }*/
 
    /*@Test
-    public void GetErrormessage(){
-       ErrorMessage();
+    public void CitiLogoTest(){
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+       CitiLogo();
    }*/
+
+   @Test
+    public void SignOnFormTest(){
+       TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+       //switchToSignOnForm();
+       SignOnForm();
+   }
 }
