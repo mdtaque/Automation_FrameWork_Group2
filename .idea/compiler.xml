@@ -10,10 +10,11 @@
         <module name="FoxNews" />
         <module name="Generic" />
         <module name="Piit" />
-        <module name="RestAPI" />
+        <module name="RESTApii" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="RestAPI" target="1.5" />
       <module name="xxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>

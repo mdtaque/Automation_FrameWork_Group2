@@ -8,7 +8,7 @@ public class TestPopUpHandle extends HandlePopUp {
     HandlePopUp objOfHandlePopUp;
 
     @Test
-    public void popUpHandle() throws InterruptedException{
+    public void popUpHandle() throws InterruptedException {
         objOfHandlePopUp = PageFactory.initElements(driver, HandlePopUp.class);
         objOfHandlePopUp.handlePopUpWindowBeforeLogIn(driver);
     }

@@ -23,6 +23,7 @@ import org.testng.asserts.SoftAssert;
 import reporting.ExtentManager;
 import reporting.ExtentTestManager;
 import reporting.TestLogger;
+import utility.DataReader;
 
 import javax.swing.*;
 import java.io.File;
@@ -38,7 +39,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
 
-    public WebDriver driver;
+    public static WebDriver driver;
     public String browserstack_username = "mdrifattaque1";
     public String browserstack_accesskey = "wb76kksaAYVDv6yivyzb";
     public String saucelabs_username = "";
@@ -363,11 +364,11 @@ public class CommonAPI {
     }
 
     //Get Assert Data
-//    public List<String> getAssertData(String DataFilePath, int ColumnNo) throws IOException {
-//        DataReader dtr = new DataReader();
-//        List<String> output = Arrays.asList(dtr.colReader(DataFilePath, ColumnNo));
-//        return output;
-//    }
+    public List<String> getAssertData(String DataFilePath, int ColumnNo) throws IOException {
+        DataReader dtr = new DataReader();
+        List<String> output = Arrays.asList(dtr.colReader(DataFilePath, ColumnNo));
+        return output;
+    }
 
     // Assert Data
     public void assertData(List<String> actualList, List<String> expectedList) {

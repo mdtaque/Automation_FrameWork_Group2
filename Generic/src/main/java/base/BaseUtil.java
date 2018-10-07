@@ -1,5 +1,6 @@
 package base;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
@@ -24,5 +25,22 @@ public class BaseUtil {
     @AfterMethod
     public void cleanup() {
         driver.close();
+    }
+
+    public void switchWindow(WebDriver driver) {
+        for (String handle : driver.getWindowHandles()) {
+            driver.switchTo().window(handle);
+        }
+    }
+
+    //handling Alert
+    public void okAlert() {
+        Alert alert = driver.switchTo().alert();
+        alert.accept();
+    }
+
+    public void cancelAlert() {
+        Alert alert = driver.switchTo().alert();
+        alert.dismiss();
     }
 }

@@ -13,8 +13,10 @@
 
     <test name = "pop up Test">
         <classes>
-            <!--<class name="TestHome.TestHomePage"/>-->
             <class name="TestHandlePopUp.TestPopUpHandle"/>
+            <!--<class name="TestHome.TestHomePage"/>-->
+            <class name="TestTableDataRead.TableDataReadTest"/>
+            <class name="TestWindowHandle.TestHandleWindow"/>
         </classes>
     </test>
 </suite>

@@ -13,8 +13,11 @@
 
 <test name = "DataReader Test">
     <classes>
-        <!--<class name="TestHomePage.TestHome"/>-->
+        <class name="TestHomePage.TestHome"/>
         <class name="TestDataBase.DatabaseTest"/>
+        <class name="TestLogIn.TestKeywordDriven"/>
+        <class name="TestLogIn.SignInUsingDataProvider"/>
+        <class name="TestLogIn.TestGoogleSheetsPage"/>
     </classes>
 </test>
 

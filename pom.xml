@@ -12,6 +12,7 @@
         <module>FoxNews</module>
         <module>ebay</module>
         <module>Piit</module>
+        <module>RESTApii</module>
     </modules>
     <dependencyManagement>
         <dependencies>

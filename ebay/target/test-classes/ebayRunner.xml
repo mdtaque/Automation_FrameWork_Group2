@@ -15,6 +15,7 @@
     <classes>
         <!--<class name="TestHomePage.TestHome"/>-->
         <class name="TestDataBase.DatabaseTest"/>
+        <class name="TestLogIn.TestKeywordDriven"/>
     </classes>
 </test>
 
