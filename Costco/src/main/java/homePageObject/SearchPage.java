@@ -69,29 +69,14 @@ public class SearchPage extends CommonAPI {
         itemsList.add("chicken");
         return itemsList;
     }
-    /*public List<String> listOfElements() {
-        List<String> list = new ArrayList<>();
-        list.add("lotion");
-        list.add("watch");
-        list.add("sunglass");
-        list.add("phone");
-
-        return list;
-    }*/
     public List<String> listOfText(){
-        List<WebElement> elements = new ArrayList<>();
+        List<String> elements = new ArrayList<>();
         List<String> text = new ArrayList<>();
-        for(WebElement web : elements){
-            text.add(web.getText());
+        for(String web : elements){
+            text.add(web);
         }
         return text;
     }
-    /*public void getList(){
-        for(String st : listOfElements()){
-            searchInputWebElement.sendKeys(st,Keys.ENTER);
-            searchInputWebElement.clear();
-        }
-    }*/
     public void screenShot() throws IOException {
         takeScreenShot("https://www.costco.com/");
     }
@@ -197,10 +182,10 @@ public class SearchPage extends CommonAPI {
             clearInputBox(searchBox);
         }
     }*/
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ConnectDB connectDB = new ConnectDB();
         connectDB.InsertDataFromArryListToMySql(getItemValue(),"myShoppingList", "item");
-    }
+    }*/
 }
 
 
