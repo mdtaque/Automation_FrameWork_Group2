@@ -12,5 +12,4 @@ public class UniversityPage extends CommonAPI {
     public void goToNewYorkUniversityPage(){
         newYorkUniversity.click();
     }
-
 }

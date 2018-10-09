@@ -1,11 +1,8 @@
 package dataBaseConnectionTest;
 
-import dataBaseConnection.DatabaseConnection;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
-import reporting.TestLogger;
+import base.CommonAPI;
 
-public class DatabaseConnectionTest extends DatabaseConnection {
+public class DatabaseConnectionTest extends CommonAPI {
     /*DatabaseConnection data;
     String Languages;
     @BeforeMethod

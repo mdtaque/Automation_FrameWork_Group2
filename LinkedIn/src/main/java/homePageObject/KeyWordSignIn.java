@@ -6,12 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import reporting.TestLogger;
 import utility.DataReader;
-
 import java.io.IOException;
 
 public class KeyWordSignIn extends CommonAPI {
-    //   KeyWordSignIn objKeyWordSignIn = PageFactory.initElements(driver, KeyWordSignIn.class);
-//   SignInPage objectSignInPage = PageFactory.initElements(driver, SignInPage.class);
 
     @FindBy(xpath = "//input[@id='login-email']")
     public static WebElement email;

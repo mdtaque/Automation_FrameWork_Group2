@@ -18,7 +18,6 @@ import org.testng.ITestResult;
 import org.testng.annotations.*;
 import reporting.ExtentManager;
 import reporting.ExtentTestManager;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -96,7 +95,7 @@ public class CommonAPI {
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("false")String cloudEnvName,
                       @Optional("OS X") String os,@Optional("10") String os_version, @Optional("chrome") String browserName, @Optional("34")
-                              String browserVersion, @Optional("https://www.costco.com/") String url)throws IOException {
+                              String browserVersion, @Optional("https://www.linkedin.com/") String url)throws IOException {
         System.setProperty("webdriver.chrome.driver", "/Users/shams/IdeaProjects/Automation_Framework_Group2a/Generic/browser-drivers/chromedriver");
         if(useCloudEnv==true){
             if(cloudEnvName.equalsIgnoreCase("browserstack")) {
@@ -163,19 +162,15 @@ public class CommonAPI {
         }
         return driver;
     }
-
-
    /* @AfterMethod
     public void cleanUp(){
         driver.close();
     }*/
-
     //return status of link if it is enabled
     public static boolean inEnableStatus(WebDriver driver, WebElement webelem){
         boolean enab = webelem.isEnabled();
         return enab;
     }
-
     //wait time for nes=xt action
     public static void wait(WebDriver driver, int sec) throws InterruptedException{
         Thread.sleep(sec * 1000);
@@ -271,7 +266,6 @@ public class CommonAPI {
             String st = web.getText();
             text.add(st);
         }
-
         return text;
     }
     public static void captureScreenshot(WebDriver driver, String screenshotName){
@@ -287,9 +281,7 @@ public class CommonAPI {
         } catch (Exception e) {
             System.out.println("Exception while taking screenshot "+e.getMessage());;
         }
-
     }
-
     //Taking Screen shots
     public void takeScreenShot(String url)throws IOException {
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);

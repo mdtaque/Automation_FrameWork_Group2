@@ -19,7 +19,6 @@ public class SignInPageTest extends SignInPage {
         objectSignInPage = new SignInPage();
         objectSignInPage=PageFactory.initElements(driver, SignInPage.class);
     }
-    //following 5 test will test the login to the site.
     @Test
     public void testWithoutAnUserNameAndPassword(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));

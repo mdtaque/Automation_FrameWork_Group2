@@ -8,7 +8,6 @@ import reporting.TestLogger;
 
 public class HomePage extends CommonAPI {
     HomePage homePage;
-
     //links for new user sign up window.
     @FindBy(xpath = "//input[@id='reg-firstname']")
     public static WebElement firstNameField;
@@ -20,7 +19,6 @@ public class HomePage extends CommonAPI {
     public static WebElement passwordField;
     @FindBy(xpath = "//input[@id='registration-submit']")
     public static WebElement joinNowField;
-
     @FindBy(xpath = "//*[@id='application-body']/div/div[4]/div/div/div/div")
     public static WebElement headLineText;
     //footer links from general section
@@ -36,7 +34,6 @@ public class HomePage extends CommonAPI {
     public static WebElement developerLink;
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[3]/ul/li[1]/a")
     public static WebElement learningLink;
-
     //footer links from business solution section
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[2]/ul/li[1]/a")
     public static WebElement talentLink;
@@ -46,7 +43,6 @@ public class HomePage extends CommonAPI {
     public static WebElement salesLink;
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[2]/ul/li[4]/a")
     public static WebElement learningLinkFromSolutionSec;
-
     //Footer link from Browse LinkedIn section
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[3]/ul/li[2]/a")
     public static WebElement jobLink;
@@ -56,7 +52,6 @@ public class HomePage extends CommonAPI {
     public static WebElement mobileLink;
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[3]/ul/li[5]/a")
     public static WebElement proFinderLink;
-
     //Footer link from Directories section
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[4]/ul/li[1]/a")
     public static WebElement membersLink;
@@ -68,7 +63,6 @@ public class HomePage extends CommonAPI {
     public static WebElement university;
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[4]/ul/li[7]/a")
     public static WebElement topJobsLink;
-
     //footer links from the very bottom of the page
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[3]/ul/li[1]/a")
     public static WebElement userAgreement;
@@ -82,7 +76,6 @@ public class HomePage extends CommonAPI {
     public static WebElement copyritePolicy;
     @FindBy(xpath = "//*[@id=\'layout-main\']/div/div[3]/div[2]/div[1]/ul/li[1]/a")
     public static WebElement signUpPage;
-
 
     public HomePage(){
         PageFactory.initElements(driver, this);
@@ -136,7 +129,6 @@ public class HomePage extends CommonAPI {
         passwordField.sendKeys(password);
         Thread.sleep(1000);
         joinNowField.click();
-
     }
     public static void pressLinkFromGeneralSecOfFooterLink(){
         boolean press = pressLink.isEnabled();

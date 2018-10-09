@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="signInPageObjectTest.GoogleSheetPageTest">
+        <methods>
+          <include name="initialization"/>
+          <include name="afterEachTestMethod"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="testLogInByInvalidIdPassUsingGoogleSheet"/>
+        </methods>
+      </class> <!-- signInPageObjectTest.GoogleSheetPageTest -->
+      <class name="feedPageObjectTest.FeedPageTest">
+        <methods>
+          <include name="testSearchPeople"/>
+          <include name="afterEachTestMethod"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="initializePageObject"/>
+        </methods>
+      </class> <!-- feedPageObjectTest.FeedPageTest -->
+      <class name="homePageObjectTest.KeyWordSignInTest">
+        <methods>
+          <include name="testSignInByKeyWord"/>
+          <include name="afterEachTestMethod"/>
+          <include name="initializePage"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+        </methods>
+      </class> <!-- homePageObjectTest.KeyWordSignInTest -->
+      <class name="homePageObjectTest.HomePageTest">
+        <methods>
+          <include name="testSalesLinkOfBusSol"/>
+          <include name="afterEachTestMethod"/>
+          <include name="testSalaryLink"/>
+          <include name="testMobileLinkFromBrowseLinkedInSec"/>
+          <include name="testHelpCenterLink"/>
+          <include name="extentSetup"/>
+          <include name="testMembersLinkFromDirectorySec"/>
+          <include name="testTopjobLinkFromDirectorySec"/>
+          <include name="testPulseLinkFromDirectorySec"/>
+          <include name="testDeveloperLink"/>
+          <include name="testClickUniversityLink"/>
+          <include name="testProFinderLinkFromBrowLinInSec"/>
+          <include name="setUp"/>
+          <include name="testLearningLinkofSolutionSec"/>
+          <include name="initializePageObject"/>
+          <include name="testMarketingLink"/>
+          <include name="testSignupLink"/>
+          <include name="testTheHeadLineText"/>
+          <include name="startExtent"/>
+          <include name="testLearningLink"/>
+          <include name="testUniversityLink"/>
+          <include name="testPressLink"/>
+          <include name="generateReport"/>
+          <include name="testJobLink"/>
+          <include name="testTalentLinkFromBusSolSecOfFooterLink"/>
+          <include name="testCarrerLink"/>
+          <include name="testTalentLink"/>
+        </methods>
+      </class> <!-- homePageObjectTest.HomePageTest -->
+      <class name="signInPageObjectTest.SignInPageTest">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="testInvalidUsernameAndInvalidPassword"/>
+          <include name="testWithoutAnUserNameAndPassword"/>
+          <include name="testNoUsernameAndInvalidPassword"/>
+          <include name="generateReport"/>
+          <include name="testInvalidUserNameAndNoPassword"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="testsignInByValidUsernameAndPassword"/>
+          <include name="initializePageObject"/>
+          <include name="startExtent"/>
+        </methods>
+      </class> <!-- signInPageObjectTest.SignInPageTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

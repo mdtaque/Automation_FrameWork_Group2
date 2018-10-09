@@ -1,5 +1,4 @@
 package homePageObjectTest;
-import base.CommonAPI;
 import homePageObject.SearchPage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
@@ -22,10 +21,6 @@ public class SearchPageTest extends SearchPage {
     @Test
     public void testGetItemValue(){
         objSearchPage.getItemValue();
-    }
-    @Test
-    public void testGetList(){
-        objSearchPage.getList();
     }
     @Test
     public void test3() throws InterruptedException, IOException {
@@ -103,9 +98,8 @@ public class SearchPageTest extends SearchPage {
                 convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         objSearchPage.navigateToServicePage();
     }
-    /* @Test
-    public void test2() throws InterruptedException{
-        SearchPage searchPage = PageFactory.initElements(driver, SearchPage.class);
-        searchPage.searchItems();
-    }*/
+    @Test
+    public void testShopAllDepartmentList(){
+       compareData();
+    }
 }

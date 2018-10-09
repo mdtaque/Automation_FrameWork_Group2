@@ -1,5 +1,6 @@
 package dataBaseConnection;
 
+import base.CommonAPI;
 import com.mongodb.BasicDBObject;
 import com.mongodb.MongoClient;
 import com.mongodb.client.FindIterable;
@@ -7,11 +8,10 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 import org.openqa.selenium.WebElement;
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class MongoDBConnection {
+public class MongoDBConnection extends CommonAPI {
     public static MongoDatabase mongoDatabase = null;
     public static MongoDatabase connectToMongoDB(){
         MongoClient mongoClient = new MongoClient();
@@ -35,10 +35,10 @@ public class MongoDBConnection {
         }
         return  "Language has been registered";
     }
-    public List<String> readLanguageListFromMongoDB(String profileName,String columnName){
+    public List<String> readFromMongoDB(String tableName,String columnName){
         List<String> list = new ArrayList<String>();
         MongoDatabase mongoDatabase = connectToMongoDB();
-        MongoCollection<Document> collection = mongoDatabase.getCollection(profileName);
+        MongoCollection<Document> collection = mongoDatabase.getCollection(tableName);
         BasicDBObject basicDBObject = new BasicDBObject();
         FindIterable<Document> iterable = collection.find(basicDBObject);
         for(Document doc:iterable) {

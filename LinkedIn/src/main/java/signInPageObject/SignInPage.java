@@ -5,10 +5,10 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import reporting.TestLogger;
-import static signInPageObject.SignInPage2.getErrorMessage;
+import static signInPageObject.SignInPageByXlsFile.getErrorMessage;
+
 public class SignInPage extends CommonAPI {
     SignInPage objectSignInPage;
-
 
     @FindBy(xpath = "//input[@id='login-email']")
     public static WebElement email;

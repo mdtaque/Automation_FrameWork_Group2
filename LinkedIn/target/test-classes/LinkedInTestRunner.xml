@@ -17,8 +17,8 @@
             <class name="homePageObjectTest.KeyWordSignInTest"/>
             <class name="feedPageObjectTest.FeedPageTest"/>
             <class name="signInPageObjectTest.SignInPageTest"/>
-            <class name="signInPageObjectTest.SingInPageTest2"/>
-            <class name="signInPageObjectTest.GoogleSheetPageTest"/>
+            <class name="signInPageObjectTest.SingInPageTestByXlsFile"/>
+            <class name="signInPageObjectTest.SignInByGoogleSheetTest"/>
             <class name="signInPageObjectTest.ByInputFromXlsTest"/>
         </classes>
     </test>
