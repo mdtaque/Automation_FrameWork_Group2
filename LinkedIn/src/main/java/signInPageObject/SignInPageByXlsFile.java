@@ -16,7 +16,7 @@ public class SignInPageByXlsFile extends CommonAPI {
 
     @DataProvider
     public Iterator<Object[]> supplyDataExcel(){
-       // TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ArrayList<Object[]> testDataExcel = XlsDataReaderUtil.getDataFromExcel();
         return testDataExcel.iterator();
     }

@@ -41,6 +41,9 @@ public class SearchPage extends CommonAPI {
     public static WebElement cartIcon;
     @FindBy(xpath = "//*[@id=\"shop-mt\"]/a")
     public static WebElement shopButton;
+    @FindBy(xpath = "//a[@id='warehouse-savings']")
+    public static WebElement viewWareHouseSaving;
+
     //Webelements for drop down with mongo db
     @FindBy(id = "navigation-dropdown")
     public static WebElement getShopAllDepartmentButton;
@@ -154,11 +157,11 @@ public class SearchPage extends CommonAPI {
         businessDeleveryLink.click();
     }
 
-    public void clickOnVideoGameLink() {
+    public void showViewWareHouseSaving() {
         TestLogger.log(getClass().getSimpleName() + ": " +
                 convertToString(new Object() {
                 }.getClass().getEnclosingMethod().getName()));
-        videoGameLink.click();
+        videoGameLink.isDisplayed();
         ;
     }
 
@@ -231,7 +234,6 @@ public class SearchPage extends CommonAPI {
         Actions actions = new Actions(driver);
         actions.moveToElement(elementToHover).click(elementToClick).build().perform();
     }
-
 }
 
 

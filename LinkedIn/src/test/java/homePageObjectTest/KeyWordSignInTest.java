@@ -14,6 +14,7 @@ public class KeyWordSignInTest extends KeyWordSignIn {
     public void initializePage(){
         objKeyWordSignIn = PageFactory.initElements(driver, KeyWordSignIn.class);
     }
+
     @Test
     public void testSignInByKeyWord() throws IOException, InterruptedException{
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));

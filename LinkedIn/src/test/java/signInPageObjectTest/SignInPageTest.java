@@ -58,7 +58,6 @@ public class SignInPageTest extends SignInPage {
     @Test
     public void testsignInByValidUsernameAndPassword() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         objectSignInPage.signInByValidUsernameAndPassword();
         Thread.sleep(100000);
     }

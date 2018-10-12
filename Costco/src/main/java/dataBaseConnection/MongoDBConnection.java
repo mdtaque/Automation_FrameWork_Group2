@@ -29,7 +29,6 @@ public class MongoDBConnection extends CommonAPI {
         }
         for(int i=0; i<elements.size(); i++){
             MongoCollection<Document> collection = mongoDatabase.getCollection(tableName);
-
             Document document = new Document().append(columnName, elements.get(i));
             collection.insertOne(document);
         }

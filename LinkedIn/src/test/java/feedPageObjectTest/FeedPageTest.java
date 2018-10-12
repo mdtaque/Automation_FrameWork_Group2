@@ -2,6 +2,7 @@ package feedPageObjectTest;
 
 import feedPageObject.FeedPage;
 import homePageObject.HomePage;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -20,10 +21,28 @@ public class FeedPageTest extends FeedPage {
         objectSignInPage = PageFactory.initElements(driver, SignInPage.class);
     }
     @Test
-    public void testSearchPeople(){
+    public void testSearchPeople() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        //objectSignInPage.signInToLinkedInAccount();
+        //objectFeedPage.navigateToMyProfile();
+        objectFeedPage.searchPeople();
+    }
+    @Test
+    public void testNavigateToFindConnection() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        objectFeedPage.navigateToFindConnection();
+    }
+    @Test
+    public void testPostNewStatus(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         objectSignInPage.signInToLinkedInAccount();
-        objectFeedPage.navigateToMyProfile();
+        objectFeedPage.postNewStatus();
+    }
+    @Test
+    public void testNavigateToHome(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        objectSignInPage.signInToLinkedInAccount();
+        objectFeedPage.navigateToHome();
     }
 }
 

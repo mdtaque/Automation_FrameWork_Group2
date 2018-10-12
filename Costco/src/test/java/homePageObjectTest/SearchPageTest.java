@@ -13,6 +13,14 @@ public class SearchPageTest extends SearchPage {
     public void initializePage(){
         objSearchPage = PageFactory.initElements(driver, SearchPage.class);
     }
+    @Test
+    public void testGetShopAllDepartmentMenuList(){
+        objSearchPage.getShopAllDepartmentMenuList();
+    }
+    @Test
+    public void testScreenShot() throws IOException {
+        objSearchPage.screenShot();
+    }
 
     @Test
     public void testGetSubmitButtonWebElement(){
@@ -63,18 +71,6 @@ public class SearchPageTest extends SearchPage {
         objSearchPage.pthotoButtonIsEnabled();
     }
     @Test
-    public void testNavigateToBusinessDeleveryLink(){
-        TestLogger.log(getClass().getSimpleName() + ": " +
-                convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        objSearchPage.navigateToBusinessDeleveryLink();
-    }
-    @Test
-    public void testClickOnVideoGameLink(){
-        TestLogger.log(getClass().getSimpleName() + ": " +
-                convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        objSearchPage.clickOnVideoGameLink();
-    }
-    @Test
     public void testNavigateToSignInPage(){
         TestLogger.log(getClass().getSimpleName() + ": " +
                 convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -87,12 +83,6 @@ public class SearchPageTest extends SearchPage {
         objSearchPage.groceryTabIsDysplayed();
     }
     @Test
-    public void testNavigateToSignInPageAndNavigateBackToHomePage(){
-        TestLogger.log(getClass().getSimpleName() + ": " +
-                convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        objSearchPage.navigateToSignInPageAndNavigateBackToHomePage();
-    }
-    @Test
     public void testNavigateToServicePage(){
         TestLogger.log(getClass().getSimpleName() + ": " +
                 convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -100,6 +90,8 @@ public class SearchPageTest extends SearchPage {
     }
     @Test
     public void testShopAllDepartmentList(){
+        TestLogger.log(getClass().getSimpleName() + ": " +
+                convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
        compareData();
     }
 }

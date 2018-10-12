@@ -18,6 +18,7 @@ public class SignInByGoogleSheet extends CommonAPI {
     public static WebElement passWord;
     @FindBy(css = "#login-submit")
     public static WebElement signInButton;
+
     public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         // Build a new authorized API client service.

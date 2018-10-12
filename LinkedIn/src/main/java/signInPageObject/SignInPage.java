@@ -29,8 +29,8 @@ public class SignInPage extends CommonAPI {
         element1.sendKeys();
         element2.sendKeys();
     }
-    public void signInToLinkedInAccount(){
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+    public static void signInToLinkedInAccount(){
+        //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         email.sendKeys("shamspaa@gmail.com");
         passWord.sendKeys("veryeasy1212");
         signInButton.click();
@@ -42,26 +42,22 @@ public class SignInPage extends CommonAPI {
         signInButton.click();
         Thread.sleep(3000);
     }
-    //Following method will verify the login without entering an username and password.
     public String withoutAnUserNameAndPassword() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         signInButton.click();
         String strn = getErrorMessage.getText();
         return strn;
     }
-    //forgot username and password link status
     public boolean forgotPasswordTabStatus(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         boolean bl = forgotPasswordTab.isEnabled();
         return bl;
     }
-    //join now button status
     public boolean joinNowTabStatus(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         boolean bol = joinNowTab.isEnabled();
         return bol;
     }
-    //Following method will verify the login with an invalid username and no password.
     public String signInWithInvalidInfo() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         email.sendKeys("wrongUserName");
@@ -71,7 +67,6 @@ public class SignInPage extends CommonAPI {
         System.out.println("Sigh In Error Message " +getErrorMessage);
         return errorMess;
     }
-    //Following method will verify the login with no username and an invalid password.
     public String noUsernameAndInvalidPassword() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         passWord.sendKeys("wrongPassword");
@@ -79,7 +74,6 @@ public class SignInPage extends CommonAPI {
         String strn = getErrorMessage.getText();
         return strn;
     }
-    //Following method will verify the login with an invalid username and an invalid password.
     public String invalidUsernameAndInvalidPassword() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         email.sendKeys("wrongUserName");
@@ -89,7 +83,6 @@ public class SignInPage extends CommonAPI {
         String strn = getErrorMessage.getText();
         return strn;
     }
-    //valid user name and valid password
     public void validUserNameAndValidPassword(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         email.sendKeys("shamspaa@gmail.com");

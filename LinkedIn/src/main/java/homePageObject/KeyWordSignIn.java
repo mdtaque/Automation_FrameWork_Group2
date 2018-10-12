@@ -18,6 +18,7 @@ public class KeyWordSignIn extends CommonAPI {
     public static WebElement signInButton;
 
     public void signInToLinkedInAccount(){
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         email.sendKeys("shamspaa@gmail.com");
         passWord.sendKeys("veryeasy1212");
         signInButton.click();

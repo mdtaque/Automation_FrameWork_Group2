@@ -181,6 +181,5 @@ public class XlsReader {
             return -1;
 
         return row.getLastCellNum();
-
     }
 }

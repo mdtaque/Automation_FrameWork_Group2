@@ -15,8 +15,8 @@
         <classes>
             <class name="homePageObjectTest.HomePageTest"/>
             <class name="homePageObjectTest.KeyWordSignInTest"/>
-            <class name="feedPageObjectTest.FeedPageTest"/>
-            <class name="signInPageObjectTest.SignInPageTest"/>
+            <!--<class name="feedPageObjectTest.FeedPageTest"/>-->
+            <!--<class name="signInPageObjectTest.SignInPageTest"/>-->
             <class name="signInPageObjectTest.SingInPageTestByXlsFile"/>
             <class name="signInPageObjectTest.SignInByGoogleSheetTest"/>
             <class name="signInPageObjectTest.ByInputFromXlsTest"/>

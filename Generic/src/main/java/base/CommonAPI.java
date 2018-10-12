@@ -95,7 +95,7 @@ public class CommonAPI {
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("false")String cloudEnvName,
                       @Optional("OS X") String os,@Optional("10") String os_version, @Optional("chrome") String browserName, @Optional("34")
-                              String browserVersion, @Optional("https://www.linkedin.com/") String url)throws IOException {
+                              String browserVersion, @Optional("https://www.costco.com/") String url)throws IOException {
         System.setProperty("webdriver.chrome.driver", "/Users/shams/IdeaProjects/Automation_Framework_Group2a/Generic/browser-drivers/chromedriver");
         if(useCloudEnv==true){
             if(cloudEnvName.equalsIgnoreCase("browserstack")) {
