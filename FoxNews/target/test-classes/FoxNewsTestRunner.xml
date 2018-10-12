@@ -15,7 +15,6 @@
     <classes>
         <class name="TestHomePageClick.ClickHomepage"/>
         <class name="TestLoginPage.LoginTest"/>
-        <!--<class name="menu.MenuPage"/>-->
     </classes>
 </test>
 

@@ -5,10 +5,12 @@ DataProviderUtilityWithXlsReader/Xls_Reader.class
 GoogleAPIs/GoogleSheetReader.class
 reporting/TestLogger.class
 databases/ConnectToSqlDB.class
+utility/ConnectDB.class
 reporting/ExtentManager.class
 DataReader/XlsReader.class
 databases/ConnectToMongoDB.class
 databases/Student.class
 reporting/ApplicationLog.class
+utility/DataReader.class
 databases/User.class
 base/BaseUtil.class

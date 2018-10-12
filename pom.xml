@@ -11,8 +11,8 @@
 <module>Generic</module>
         <module>FoxNews</module>
         <module>ebay</module>
-        <module>Piit</module>
         <module>RESTApii</module>
+        <module>AllFeatures</module>
     </modules>
     <dependencyManagement>
         <dependencies>
