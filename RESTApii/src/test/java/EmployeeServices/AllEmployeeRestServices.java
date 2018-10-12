@@ -3,7 +3,6 @@ package EmployeeServices;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import static io.restassured.RestAssured.given;
 
 public class AllEmployeeRestServices {
@@ -17,7 +16,6 @@ public class AllEmployeeRestServices {
         Assert.assertEquals(statusLine, "HTTP/1.1 200 OK");
         Assert.assertEquals(statuscode, 200);
     }
-
     @Test
     public void badCallAllEmployeeResources() {
         Response response = null;
@@ -32,7 +30,6 @@ public class AllEmployeeRestServices {
         Assert.assertEquals(statusLine, "HTTP/1.1 404 Not Found");
         Assert.assertEquals(statuscode, 404);
     }
-
     @Test
     public void serverErrorCallAllEmployeeResources() {
         Response response = null;

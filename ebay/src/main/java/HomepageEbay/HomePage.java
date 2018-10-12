@@ -40,7 +40,6 @@ public class HomePage extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         searchinputbox.sendKeys("perfume", Keys.ENTER);
     }
-
     public List<String> listOfElements() {
         TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         List<String> list = new ArrayList<>();

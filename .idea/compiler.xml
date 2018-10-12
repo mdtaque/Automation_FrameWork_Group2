@@ -10,12 +10,12 @@
         <module name="ebay" />
         <module name="FoxNews" />
         <module name="Generic" />
-        <module name="Piit" />
         <module name="RESTApii" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Features" target="1.8" />
+      <module name="Piit" target="1.8" />
       <module name="RestAPI" target="1.5" />
       <module name="xxx" target="1.8" />
     </bytecodeTargetLevel>

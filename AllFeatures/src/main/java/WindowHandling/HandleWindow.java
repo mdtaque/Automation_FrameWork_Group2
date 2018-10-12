@@ -37,7 +37,6 @@ public class HandleWindow extends BaseUtil {
         Thread.sleep(2000);
         driver.switchTo().window(parentWindow);
     }
-
     public void windowSwitchByCondition() throws InterruptedException {
         String mainWindow = driver.getWindowHandle();
         newWindowOpen.click();
@@ -59,7 +58,6 @@ public class HandleWindow extends BaseUtil {
             }
         }
     }
-
     public void switchWindowAgain() throws InterruptedException {
         newWindowOpen.click();
         switchWindow(driver);

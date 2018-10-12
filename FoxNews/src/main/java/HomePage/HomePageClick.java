@@ -4,9 +4,7 @@ import base.CommonAPI;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.ui.Select;
 import reporting.TestLogger;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -32,14 +30,17 @@ public class HomePageClick extends CommonAPI {
     WebElement nextSearchBox;
 
     public void searchBoxClick() {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         searchicon.click();
     }
     //reusable method
     public void searchBoxInput(String input) {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         searchicon.click();
         searchinputbox.sendKeys(input);
     }
     public void searchButtonEnter() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         searchicon.click();
         for(String s: listOfString()){
             searchinputbox.sendKeys(s, Keys.ENTER);
@@ -53,23 +54,23 @@ public class HomePageClick extends CommonAPI {
         clickonlogo.click();
     }
     public void getLinks() {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         for (WebElement links : anchorTag) {
             System.out.println(links.getAttribute("href"));
         }
     }
     public void linkText() {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         verifyLinkText.click();
     }
     public void partialLinkText() {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         verifyPartialLinkText.click();
     }
     public static List<String> listOfString() {
-
         List<String> list = new ArrayList<String>();
         list.add(0, "Sprots");
         list.add(1, "Politics");
-
         return list;
     }
 }
-

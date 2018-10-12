@@ -1,16 +1,13 @@
 package TestLogIn;
 
-import DataProviderUtilityWithXlsReader.XlsDataReaderUtil;
 import HomepageEbay.HomePage;
 import LogInPage.SignIn;
+import base.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
-import java.util.ArrayList;
-import java.util.Iterator;
+import reporting.TestLogger;
 
 public class SignInUsingDataProvider extends SignIn {
 
@@ -22,25 +19,21 @@ public class SignInUsingDataProvider extends SignIn {
         objOfSignIn = PageFactory.initElements(driver, SignIn.class);
         objOfHomePage = PageFactory.initElements(driver, HomePage.class);
     }
-    @Test
+    @Test(enabled = false)
     public void testiFrame() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         objOfHomePage.goToLoginPage();
         objOfSignIn.switchToiframe();
     }
-    @Test
+    @Test(enabled = false)
     public void testLogInManual() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         objOfHomePage.goToLoginPage();
         objOfSignIn.logInManual();
     }
-    @DataProvider
-    public Iterator<Object[]> supplyData() {
-        ArrayList<Object[]> testData =
-                XlsDataReaderUtil.getDataFromExcel();
-        return testData.iterator();
-    }
     @Test ( dataProvider = "supplyData")
     public void testLogInDataProvider(String email, String passCode, String message) throws InterruptedException {
-        objOfHomePage.goToLoginPage();
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         String actual= objOfSignIn.logInByExcelData(email,passCode);
         Assert.assertEquals(actual,message);
     }
