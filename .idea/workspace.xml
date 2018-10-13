@@ -24,16 +24,58 @@
       <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/selenium-server-standalone-3.14.0.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaProjectAutomation/lib/testng-6.8.7.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice For Midterm/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/AllFeatures-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/AllFeatures-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/classes/WindowHandling/HandleWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/classes/WindowHandling/HandleWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllFeatures/target/test-classes/TestHandlePopUp/TestPopUpHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/AllFeatures/target/test-classes/TestHandlePopUp/TestPopUpHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/FoxNews-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/FoxNews-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/classes/HomePage/HomePageClick$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/classes/HomePage/HomePageClick$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/classes/HomePage/HomePageClick.class" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/classes/HomePage/HomePageClick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/test-classes/TestHomePageClick/ClickHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/test-classes/TestHomePageClick/ClickHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoxNews/target/test-classes/TestLoginPage/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/FoxNews/target/test-classes/TestLoginPage/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESTApii/target/RESTApii-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RESTApii/target/RESTApii-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESTApii/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RESTApii/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESTApii/target/test-classes/EmployeeServices/AllEmployeeRestServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/RESTApii/target/test-classes/EmployeeServices/AllEmployeeRestServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESTApii/target/test-classes/JSONServer/PostResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/RESTApii/target/test-classes/JSONServer/PostResource.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestGoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestGoogleSheetsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/HomepageEbay/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/LogInPage/GoogleSheetsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/LogInPage/GoogleSheetsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/LogInPage/LoginWithKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/LogInPage/LoginWithKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/ebay-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/ebay-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/TestHomePage/TestHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/TestHomePage/TestHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/TestLogIn/TestGoogleSheetsPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/TestLogIn/TestGoogleSheetsPage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/TestLogIn/TestGoogleSheetsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/TestLogIn/TestGoogleSheetsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/TestLogIn/TestKeywordDriven.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/TestLogIn/TestKeywordDriven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld.java/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" afterDir="false" />
@@ -79,34 +121,34 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="38" />
-          <entry key="java" value="23489" />
-          <entry key="properties" value="47" />
-          <entry key="xml" value="578" />
+          <entry key="java" value="24399" />
+          <entry key="properties" value="48" />
+          <entry key="xml" value="585" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="23489" />
+          <entry key="JAVA" value="24399" />
           <entry key="PLAIN_TEXT" value="81" />
-          <entry key="Properties" value="47" />
-          <entry key="XML" value="535" />
+          <entry key="Properties" value="48" />
+          <entry key="XML" value="542" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="14" />
           <entry key="html" value="1" />
-          <entry key="java" value="460" />
+          <entry key="java" value="510" />
           <entry key="json" value="1" />
           <entry key="png" value="14" />
-          <entry key="properties" value="5" />
+          <entry key="properties" value="6" />
           <entry key="server/PNT/Table" value="1" />
           <entry key="server/Rifat/Table" value="1" />
           <entry key="server/Rifat/Taque" value="1" />
           <entry key="server/students/profile" value="2" />
           <entry key="server/students/qtp" value="1" />
           <entry key="server/students/students" value="6" />
-          <entry key="xml" value="126" />
+          <entry key="xml" value="134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -114,12 +156,12 @@
           <entry key="CLASS" value="14" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="14" />
-          <entry key="JAVA" value="460" />
+          <entry key="JAVA" value="510" />
           <entry key="JSON" value="1" />
           <entry key="MONGO" value="12" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="5" />
-          <entry key="XML" value="124" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="132" />
         </counts>
       </usages-collector>
     </session>
@@ -132,44 +174,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ebay/src/main/java/DataDriven/XlsReaderMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2380">
-              <caret line="140" column="5" lean-forward="true" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="64" column="60" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
+            <state relative-caret-position="25">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,12 +184,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestGoogleSheetsPage.java">
+        <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="476">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -205,22 +213,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RestAPI/src/test/java/JSONServer/PostsResource.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/Databaselatest/Databaseconnection.java" />
-        <option value="$PROJECT_DIR$/Generic/src/secret.properties" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
-        <option value="$PROJECT_DIR$/RestAPI/src/test/java/JSONServer/PostResource.java" />
         <option value="$PROJECT_DIR$/RestAPI/src/test/java/OpenWeatherMap/GetRequestTest.java" />
-        <option value="$PROJECT_DIR$/RESTApii/pom.xml" />
         <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogInWithDataReader/TestKeywordDriven.java" />
-        <option value="$PROJECT_DIR$/RESTApii/src/test/java/OpenWeatherMap/GetRequestTest.java" />
-        <option value="$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/AllEmployeeRestServices.java" />
         <option value="$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/SingleEmployeeRestServices.java" />
         <option value="$PROJECT_DIR$/RESTApii/src/test/resources/RestApiTestRunner.xml" />
         <option value="$PROJECT_DIR$/Piit/src/test/java/TestHandlePopUp/TestPopUpHandle.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" />
         <option value="$PROJECT_DIR$/FoxNews/src/test/resources/FoxNewsTestRunner.xml" />
         <option value="$PROJECT_DIR$/Piit/src/test/resources/PIITRunner.xml" />
         <option value="$PROJECT_DIR$/Piit/src/test/java/TestWindowHandle/TestHandleWindow.java" />
@@ -231,31 +229,41 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
         <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/FacebookLoginByGoogleSheet.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestKeywordDriven.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java" />
-        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestLoginPage/LoginTest.java" />
         <option value="$PROJECT_DIR$/Features/src/main/java/PopUpHandle/HandlePopUp.java" />
         <option value="$PROJECT_DIR$/Features/src/main/java/ReadingTableData/ReadDataFromTable.java" />
         <option value="$PROJECT_DIR$/Features/src/test/java/TestTableDataRead/TableDataReadTest.java" />
         <option value="$PROJECT_DIR$/Features/src/main/java/WindowHandling/HandleWindow.java" />
         <option value="$PROJECT_DIR$/Features/src/test/java/TestWindowHandle/TestHandleWindow.java" />
-        <option value="$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java" />
         <option value="$PROJECT_DIR$/AllFeatures/pom.xml" />
         <option value="$PROJECT_DIR$/AllFeatures/src/main/java/HomepagePnt/HomePage.java" />
         <option value="$PROJECT_DIR$/AllFeatures/src/test/java/TestHome/TestHomePage.java" />
         <option value="$PROJECT_DIR$/AllFeatures/src/test/java/TestWindowHandle/TestHandleWindow.java" />
         <option value="$PROJECT_DIR$/AllFeatures/src/test/resources/FeaturesTestRunner.xml" />
         <option value="$PROJECT_DIR$/Piit/src/main/java/WindowHandling/HandleWindow.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java" />
         <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java" />
-        <option value="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" />
-        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestGoogleSheetsPage.java" />
         <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestGoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestKeywordDriven.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java" />
+        <option value="$PROJECT_DIR$/FoxNews/src/test/java/TestLoginPage/LoginTest.java" />
+        <option value="$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/AllEmployeeRestServices.java" />
+        <option value="$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java" />
+        <option value="$PROJECT_DIR$/RESTApii/src/test/java/OpenWeatherMap/GetRequestTest.java" />
+        <option value="$PROJECT_DIR$/AllFeatures/src/main/java/WindowHandling/HandleWindow.java" />
+        <option value="$PROJECT_DIR$/AllFeatures/src/test/java/TestHandlePopUp/TestPopUpHandle.java" />
+        <option value="$PROJECT_DIR$/RESTApii/pom.xml" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/dastabase2/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/database2/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java" />
+        <option value="$PROJECT_DIR$/ebay/src/secret.properties" />
+        <option value="$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java" />
       </list>
     </option>
   </component>
@@ -276,8 +284,8 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="23" />
+    <option name="x" value="57" />
+    <option name="y" value="63" />
     <option name="width" value="1353" />
     <option name="height" value="830" />
   </component>
@@ -296,92 +304,6 @@
               <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomepageEbay" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LogInPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TestHomePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GroupFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GroupFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="ebay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TestLogIn" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -390,7 +312,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539325279175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539404110939" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -404,6 +326,9 @@
       <recent name="$PROJECT_DIR$/ebay/data" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java" />
       <recent name="$PROJECT_DIR$/ebay/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dastabase2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AllFeatures/src/test" />
@@ -425,18 +350,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet">
-    <configuration name="GetRequestTest.testResponseBody" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RESTApii" />
+  <component name="RunManager" selected="TestNG.DatabaseTest.testSearchFromSqlDB">
+    <configuration name="DatabaseTest.testSearchFromSqlDB" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OpenWeatherMap.*" />
+          <option name="PATTERN" value="TestDataBase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="OpenWeatherMap" />
-      <option name="MAIN_CLASS_NAME" value="OpenWeatherMap.GetRequestTest" />
-      <option name="METHOD_NAME" value="testResponseBody" />
+      <option name="PACKAGE_NAME" value="TestDataBase" />
+      <option name="MAIN_CLASS_NAME" value="TestDataBase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testSearchFromSqlDB" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.testy" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestDataBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestDataBase" />
+      <option name="MAIN_CLASS_NAME" value="TestDataBase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testy" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -480,35 +423,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHandleWindow.testWindowHandleByCondition" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AllFeatures" />
+    <configuration name="TestHome.testDisplayed" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestWindowHandle.*" />
+          <option name="PATTERN" value="TestHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestWindowHandle" />
-      <option name="MAIN_CLASS_NAME" value="TestWindowHandle.TestHandleWindow" />
-      <option name="METHOD_NAME" value="testWindowHandleByCondition" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHandleWindow.testWindowHandling" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Features" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestWindowHandle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TestWindowHandle" />
-      <option name="MAIN_CLASS_NAME" value="TestWindowHandle.TestHandleWindow" />
-      <option name="METHOD_NAME" value="testWindowHandling" />
+      <option name="PACKAGE_NAME" value="TestHomePage" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestHome" />
+      <option name="METHOD_NAME" value="testDisplayed" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -517,19 +442,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.TestHandleWindow.testWindowHandling" />
-      <item itemvalue="TestNG.GetRequestTest.testResponseBody" />
-      <item itemvalue="TestNG.TestHandleWindow.testWindowHandleByCondition" />
       <item itemvalue="TestNG.SignInUsingDataProvider.testLogInDataProvider" />
       <item itemvalue="TestNG.TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" />
+      <item itemvalue="TestNG.TestHome.testDisplayed" />
+      <item itemvalue="TestNG.DatabaseTest.testy" />
+      <item itemvalue="TestNG.DatabaseTest.testSearchFromSqlDB" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DatabaseTest.testSearchFromSqlDB" />
+        <item itemvalue="TestNG.DatabaseTest.testy" />
+        <item itemvalue="TestNG.TestHome.testDisplayed" />
         <item itemvalue="TestNG.TestGoogleSheetsPage.testLogInByInvalidIdPassUsingGoogleSheet" />
         <item itemvalue="TestNG.SignInUsingDataProvider.testLogInDataProvider" />
-        <item itemvalue="TestNG.TestHandleWindow.testWindowHandleByCondition" />
-        <item itemvalue="TestNG.TestHandleWindow.testWindowHandling" />
-        <item itemvalue="TestNG.GetRequestTest.testResponseBody" />
       </list>
     </recent_temporary>
   </component>
@@ -547,42 +472,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SignInUsingDataProvider_testLogInDataProvider - 2018.10.12 at 01h 07m 12s.xml">
-      <configuration name="SignInUsingDataProvider.testLogInDataProvider" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testy - 2018.10.12 at 19h 51m 25s.xml">
+      <configuration name="DatabaseTest.testy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignInUsingDataProvider_testLogInDataProvider - 2018.10.12 at 01h 07m 49s.xml">
-      <configuration name="SignInUsingDataProvider.testLogInDataProvider" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.12 at 23h 41m 21s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignInUsingDataProvider_testLogInDataProvider - 2018.10.12 at 01h 12m 49s.xml">
-      <configuration name="SignInUsingDataProvider.testLogInDataProvider" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.12 at 23h 48m 48s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TableDataReadTest_tableRead - 2018.10.12 at 01h 31m 25s.xml">
-      <configuration name="TableDataReadTest.tableRead" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.12 at 23h 55m 51s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHandleWindow_switchTab - 2018.10.12 at 01h 34m 13s.xml">
-      <configuration name="TestHandleWindow.switchTab" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.12 at 23h 57m 44s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHandleWindow_testWindowHandling - 2018.10.12 at 01h 36m 27s.xml">
-      <configuration name="TestHandleWindow.testWindowHandling" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.13 at 00h 09m 17s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHandleWindow_switchMsgWindow - 2018.10.12 at 01h 38m 19s.xml">
-      <configuration name="TestHandleWindow.switchMsgWindow" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.13 at 00h 12m 17s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GetRequestTest_testResponseBody - 2018.10.12 at 01h 43m 04s.xml">
-      <configuration name="GetRequestTest.testResponseBody" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.13 at 00h 12m 43s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHandleWindow_testWindowHandleByCondition - 2018.10.12 at 02h 04m 50s.xml">
-      <configuration name="TestHandleWindow.testWindowHandleByCondition" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.13 at 00h 14m 03s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignInUsingDataProvider_testLogInDataProvider - 2018.10.12 at 02h 16m 30s.xml">
-      <configuration name="SignInUsingDataProvider.testLogInDataProvider" configurationId="TestNG" />
+    <history-entry file="DatabaseTest_testSearchFromSqlDB - 2018.10.13 at 00h 15m 10s.xml">
+      <configuration name="DatabaseTest.testSearchFromSqlDB" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="23" width="1353" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="57" y="63" width="1353" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.16094585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.16475973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -591,7 +515,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5020161" side_tool="true" weight="0.16452074" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32655826" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5121951" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5120482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3306233" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,7 +531,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.24124204" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.24103737" />
       <window_info anchor="right" id="Mongo Explorer" order="8" weight="0.3274559" />
     </layout>
     <layout-to-restore>
@@ -654,7 +578,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java</url>
-          <line>45</line>
+          <line>38</line>
           <properties class="LogInPage.LoginWithKeyword" method="loginByKeyword">
             <option name="EMULATED" value="true" />
           </properties>
@@ -664,205 +588,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/FacebookLoginByGoogleSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestFacebookLoginGoogleSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="51" column="86" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/DataDrivenTest/TestXlsReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2323#2331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/main/java/LoginPage/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/TestLoginPage/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="144" selection-start-line="42" selection-start-column="144" selection-end-line="42" selection-end-column="144" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/resources/FoxNewsTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/src/main/java/ReadingTableData/ReadDataFromTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/src/main/java/PopUpHandle/HandlePopUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/src/test/java/TestWindowHandle/TestHandleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/src/main/java/WindowHandling/HandleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/src/test/java/TestTableDataRead/TableDataReadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Features/src/test/java/TestHandlePopUp/TestPopUpHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Features/src/test/java/TestHome/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -885,53 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/AllEmployeeRestServices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/SingleEmployeeRestServices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/OpenWeatherMap/GetRequestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/resources/RestApiTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Piit/src/main/java/HomepagePnt/HomePage.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -949,36 +627,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/ReadingTableData/ReadDataFromTable.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/PopUpHandle/HandlePopUp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/HomepagePnt/HomePage.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/WindowHandling/HandleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Piit/src/test/resources/PIITRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/resources/FeaturesTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -999,26 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/java/TestTableDataRead/TableDataReadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/java/TestWindowHandle/TestHandleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/java/TestHome/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1029,68 +664,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/java/TestHandlePopUp/TestPopUpHandle.java">
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestKeywordDriven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="47" column="8" selection-start-line="47" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="144" selection-start-line="35" selection-start-column="144" selection-end-line="35" selection-end-column="144" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-349">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        <state relative-caret-position="1258">
+          <caret line="74" column="47" lean-forward="true" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1107,20 +684,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/LoginWithKeyword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="5" lean-forward="true" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+        <state relative-caret-position="748">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/SignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/LogInPage/GoogleSheetsPage.java">
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/main/java/HomePage/HomePageClick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="64" column="60" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
+        <state relative-caret-position="569">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2323#2331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/main/java/LoginPage/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/PopUpHandle/HandlePopUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/WindowHandling/HandleWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/main/java/ReadingTableData/ReadDataFromTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/resources/FeaturesTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/resources/FoxNewsTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/resources/RestApiTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/java/TestHandlePopUp/TestPopUpHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="144" selection-start-line="13" selection-start-column="144" selection-end-line="13" selection-end-column="144" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/java/TestWindowHandle/TestHandleWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllFeatures/src/test/java/TestTableDataRead/TableDataReadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/SignInUsingDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="35" column="144" selection-start-line="35" selection-start-column="144" selection-end-line="35" selection-end-column="144" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1129,10 +834,213 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestGoogleSheetsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestLogIn/TestKeywordDriven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/TestHomePageClick/ClickHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="87" column="1" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxNews/src/test/java/TestLoginPage/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="41" column="144" selection-start-line="41" selection-start-column="144" selection-end-line="41" selection-end-column="144" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/AllEmployeeRestServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/EmployeeServices/SingleEmployeeRestServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/JSONServer/PostResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESTApii/src/test/java/OpenWeatherMap/GetRequestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="351" column="29" selection-start-line="351" selection-start-column="29" selection-end-line="351" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestHomePage/TestHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#3802#3803#0" expanded="true" />
+            <element signature="e#3851#3852#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="148" column="17" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Database2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2108">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/database2/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2363#2371#0" expanded="true" />
+            <element signature="e#3257#3265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/HomepageEbay/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/main/java/Database/Databaseconnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay/src/test/java/TestDataBase/DatabaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
           </folding>
         </state>
       </provider>

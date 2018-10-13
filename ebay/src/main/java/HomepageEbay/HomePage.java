@@ -35,6 +35,8 @@ public class HomePage extends CommonAPI {
     List<WebElement> numberOfiFrame;
     @FindBy(linkText = "Featured Sales & Events")
     WebElement featuredSalesEvents;
+    @FindBy(xpath = "//button[@id='gh-shop-a']")
+    WebElement shopByCategory;
 
     public void InputSearchBox(){
         TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -65,7 +67,7 @@ public class HomePage extends CommonAPI {
             searchinputbox.clear();
         }
     }
-    public void hovercase() throws InterruptedException {
+    public void hoverOver() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         Actions actions=new Actions(driver);
         actions.moveToElement(fashiontab).perform();
@@ -132,6 +134,11 @@ public class HomePage extends CommonAPI {
         sleepFor(3);
         String currentUrl = driver.getCurrentUrl();
         return currentUrl;
+    }
+    public boolean shopByCategoryIsDisplayed() throws InterruptedException {
+        boolean actual = shopByCategory.isEnabled();
+        System.out.println(actual);
+        return actual;
     }
     //scrolling untill element is visible on iframe
     public void scrollToAboutEbay(){

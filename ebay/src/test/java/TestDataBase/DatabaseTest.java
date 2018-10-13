@@ -26,4 +26,9 @@ public class DatabaseTest extends Databaseconnection {
             Assert.assertEquals(actualList.get(index),expectedList.get(index));
         }
     }
+    @Test
+    public void testSearchFromSqlDB() throws Exception {
+        driver.get("https://www.ebay.com/");
+        databaseObj.searchItemsFromDBSql();
+    }
 }

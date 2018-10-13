@@ -1,7 +1,5 @@
 package databases;
 
-import org.openqa.selenium.WebElement;
-
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;

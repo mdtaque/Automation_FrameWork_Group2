@@ -31,7 +31,7 @@ public class TestHome extends HomePage {
     @Test(enabled = true)
     public void hover_Test() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        hovercase();
+        hoverOver();
     }
     @Test(enabled = true)
     public void testGoToLoginPage() throws InterruptedException {
@@ -83,6 +83,12 @@ public class TestHome extends HomePage {
         String actualLink = objOfHomePage.currentLinkOfLoginPage();
         String expected = "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.com%2F";
         Assert.assertTrue(actualLink.equals(expected));
+    }
+    @Test
+    public void testDisplayed() throws InterruptedException {
+        objOfHomePage.shopByCategoryIsDisplayed();
+        boolean actual = shopByCategoryIsDisplayed();
+        Assert.assertEquals(actual, true);
     }
     @Test
     public void testScroll(){
